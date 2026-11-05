@@ -1,13 +1,13 @@
 {
-  "version": "1.0.6",
+  "version": "1.0.7",
   "minecraft": "1.20.1",
   "forge": "47.4.0",
   "basePack": "ATM9",
   "basePackVersion": "1.1.1",
   "assetName": "Dog-Water-Minecraft.zip",
-  "bytes": 48609214,
-  "sha256": "bbb905287e741d7692f4b31fac053d24bf3f54eff785ef0a7b697ad767286cbf",
-  "curseForgeManifestFiles": 433,
-  "mods": 429,
-  "graveSyncStatus": "included; requires normal server restart and client relaunch; live recovery test pending"
+  "bytes": 48597807,
+  "sha256": "b8f1e9e8051ece8f1b215f068861331343f6b0895a48f1177b23c5f00433f785",
+  "curseForgeManifestFiles": 424,
+  "mods": 420,
+  "graveSyncStatus": "server scripts activated; client scripts installed; live grave recovery test pending"
 }
