@@ -1,12 +1,12 @@
 # Dog Water Minecraft
 
-Private CurseForge client profile for Dog Water Minecraft, based on All the Mods 9.
+A Minecraft modpack for **Dog Water Minecraft**, based on All the Mods 9 (ATM9). Import the client profile with CurseForge.
 
 **[Download the latest profile ZIP](https://github.com/dellmas/dog-water-minecraft/releases/latest/download/Dog-Water-Minecraft.zip)**
 
 [Latest release and version notes](https://github.com/dellmas/dog-water-minecraft/releases/latest)
 
-GitHub sign-in and access to this private repository are required. The link does not grant access by itself.
+The modpack download is public. No GitHub account or invitation is required.
 
 ## Join the server
 
@@ -38,4 +38,4 @@ The ZIP is a CurseForge manifest with configuration overrides; CurseForge downlo
 
 ## Credits
 
-Based on [ATM9 by ATMTeam](https://www.curseforge.com/minecraft/modpacks/all-the-mods-9). Mods, resource packs, and shaders remain the work of their respective authors. This is a private custom profile, not an official ATMTeam release.
+Based on [ATM9 by ATMTeam](https://www.curseforge.com/minecraft/modpacks/all-the-mods-9). Mods, resource packs, and shaders remain the work of their respective authors. This is a custom Dog Water Minecraft modpack, not an official ATMTeam release.
