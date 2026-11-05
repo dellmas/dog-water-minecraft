@@ -12,18 +12,19 @@ This repository is public. Friends can download the profile without a GitHub acc
 
 1. Close Minecraft. In CurseForge, select Minecraft, then **Import** and choose the downloaded ZIP.
 2. Import it as a **new profile**. Do not extract the ZIP, install ATM9 separately, or use Update All.
-3. Launch **Dog Water Minecraft**. Choose **Multiplayer ÃƒÂ¢Ã¢â‚¬Â Ã¢â‚¬â„¢ Dog Water Minecraft ÃƒÂ¢Ã¢â‚¬Â Ã¢â‚¬â„¢ Join Server**.
+3. Launch **Dog Water Minecraft**. Choose **Multiplayer > Dog Water Minecraft > Join Server**.
 
 The server entry is included: `server.dogwaterdev.com:25566`.
 
 The profile uses Minecraft **1.20.1**, Forge **47.4.0**, and ATM9 **1.1.1**, with the server's custom mod additions/removals and compatibility settings. Each player needs their own Minecraft Java account.
 
-## Current profile: 1.0.10
+## Current profile: 1.0.11
 
 ### November 5 profile changes
 
-Removed 45 farming, magic and tech mods, with matching recipe/quest cleanup. The shared profile now uses standard textures; Ars Nouveau, space travel, planes, Sophisticated Backpacks and the Infinity Backpack remain. Current totals: 363 server mods and 384 client mods.
+Removed 62 farming, magic and tech mods today, including AE2 and its addons, DimStorage and Create Jetpack. Kept Refined Storage, EnderChests, Iron Jetpacks, Tinkers' Construct and Silent Gear. Current totals: 346 server mods and 367 client mods. Shared profile uses standard textures.
 
+- AE2 and its fourteen addons/integrations, DimStorage and Create Jetpack are removed. Refined Storage, EnderChests and Iron Jetpacks stay. Tinkers' Construct and Silent Gear are unchanged.
 - Croptopia and all eight Thermal mods are removed, along with the earlier requested removals. Simple Planes is included. Ars Nouveau, Ad Astra, and Corail Tombstone remain. CoFH Core stays for Redstone Arsenal and Ensorcellation.
 - All six RFTools modules, Deep Resonance, Advanced Generators, Generator Galore, Traveler's Backpack, XNet and XNet Gases are removed. Sophisticated Backpacks stays, including mob backpack loot and B to open the equipped bag.
 - Alchemistry/ChemLib/AlchemyLib, Psi, Integrated Dynamics and its addons, Nature's Aura, Botania/MythicBotany and dependent addons, TownTalk and StyleColonies are removed. Retained Powah and Ars progression routes stay available.
@@ -32,12 +33,12 @@ Removed 45 farming, magic and tech mods, with matching recipe/quest cleanup. The
 - **B** opens your equipped Sophisticated Backpack; **Alt+B** creates a JourneyMap waypoint.
 - The green vanilla recipe-book button is restored, including FastWorkbench, Crafting Tweaks, KubeJS, Quark, and Patchouli settings. JEI recipe lookup remains available with **R**.
 - Controller settings and the F9 shortcut conflict fix included.
-- The shared profile uses standard Minecraft and mod textures. Optimum Realism and its texture overlay are omitted. The patched Complementary shader remains selected and can be disabled independently. Frame limit is 60 FPS, VSync off. Disable shaders under **Video Settings ÃƒÂ¢Ã¢â‚¬Â Ã¢â‚¬â„¢ Mekalus (Oculus)** if needed.
+- The shared profile uses standard Minecraft and mod textures. Optimum Realism and its texture overlay are omitted. The patched Complementary shader remains selected and can be disabled under **Video Settings > Shader Packs**. Frame limit is 60 FPS, VSync off.
 - Grave recovery/death-marker integration included. Server scripts are active and client scripts are included for your next launch. Eighteen logic tests passed; an actual in-game grave recovery test is still pending. It backs up removed death markers locally and preserves ordinary waypoints.
 
 ## Memory
 
-Use 8192 MB on a 16 GB PC, or 10000ÃƒÂ¢Ã¢â€šÂ¬Ã¢â‚¬Å“12000 MB on a PC with 24 GB or more. Adjust this in the CurseForge profile options. Allow several minutes for the first launch and server join.
+Use 8192 MB on a 16 GB PC, or 10000-12000 MB on a PC with 24 GB or more. Adjust this in the CurseForge profile options. Allow several minutes for the first launch and server join.
 
 ## Updates and checksums
 
