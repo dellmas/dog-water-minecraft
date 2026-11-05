@@ -20,6 +20,10 @@ The profile uses Minecraft **1.20.1**, Forge **47.4.0**, and ATM9 **1.1.1**, wit
 
 ## Current profile: 1.0.10
 
+### November 5 profile changes
+
+Removed 45 farming, magic and tech mods, with matching recipe/quest cleanup. The shared profile now uses standard textures; Ars Nouveau, space travel, planes, Sophisticated Backpacks and the Infinity Backpack remain. Current totals: 363 server mods and 384 client mods.
+
 - Croptopia and all eight Thermal mods are removed, along with the earlier requested removals. Simple Planes is included. Ars Nouveau, Ad Astra, and Corail Tombstone remain. CoFH Core stays for Redstone Arsenal and Ensorcellation.
 - All six RFTools modules, Deep Resonance, Advanced Generators, Generator Galore, Traveler's Backpack, XNet and XNet Gases are removed. Sophisticated Backpacks stays, including mob backpack loot and B to open the equipped bag.
 - Alchemistry/ChemLib/AlchemyLib, Psi, Integrated Dynamics and its addons, Nature's Aura, Botania/MythicBotany and dependent addons, TownTalk and StyleColonies are removed. Retained Powah and Ars progression routes stay available.
