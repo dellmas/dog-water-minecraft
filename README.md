@@ -18,12 +18,13 @@ The server entry is included: `server.dogwaterdev.com:25566`.
 
 The profile uses Minecraft **1.20.1**, Forge **47.4.0**, and ATM9 **1.1.1**, with the server's custom mod additions/removals and compatibility settings. Each player needs their own Minecraft Java account.
 
-## Current profile: 1.0.11
+## Current profile: 1.0.12
 
 ### November 5 profile changes
 
-Removed 62 farming, magic and tech mods today, including AE2 and its addons, DimStorage and Create Jetpack. Kept Refined Storage, EnderChests, Iron Jetpacks, Tinkers' Construct and Silent Gear. Current totals: 346 server mods and 367 client mods. Shared profile uses standard textures.
+Removed 63 mod files today, including the redundant CC: Tweaked 1.113.1 copy. CC: Tweaked 1.116.1 remains, along with Refined Storage, EnderChests, Iron Jetpacks, Tinkers' Construct and Silent Gear. Current totals: 345 server mods and 366 client mods. Shared profile uses standard textures.
 
+- Redundant CC: Tweaked 1.113.1 is removed; 1.116.1 remains.
 - AE2 and its fourteen addons/integrations, DimStorage and Create Jetpack are removed. Refined Storage, EnderChests and Iron Jetpacks stay. Tinkers' Construct and Silent Gear are unchanged.
 - Croptopia and all eight Thermal mods are removed, along with the earlier requested removals. Simple Planes is included. Ars Nouveau, Ad Astra, and Corail Tombstone remain. CoFH Core stays for Redstone Arsenal and Ensorcellation.
 - All six RFTools modules, Deep Resonance, Advanced Generators, Generator Galore, Traveler's Backpack, XNet and XNet Gases are removed. Sophisticated Backpacks stays, including mob backpack loot and B to open the equipped bag.
