@@ -18,9 +18,10 @@ The server entry is included: `server.dogwaterdev.com:25566`.
 
 The profile uses Minecraft **1.20.1**, Forge **47.4.0**, and ATM9 **1.1.1**, with the server's custom mod additions/removals and compatibility settings. Each player needs their own Minecraft Java account.
 
-## Current profile: 1.0.8
+## Current profile: 1.0.9
 
 - Croptopia and all eight Thermal mods are removed, along with the earlier requested removals. Simple Planes is included. Ars Nouveau, Ad Astra, and Corail Tombstone remain. CoFH Core stays for Redstone Arsenal and Ensorcellation.
+- Alchemistry/ChemLib/AlchemyLib, Psi, Integrated Dynamics and its addons, Nature's Aura, Botania/MythicBotany and dependent addons, TownTalk and StyleColonies are removed. Retained Powah and Ars progression routes stay available.
 - Sushi Go Crafting, Mystical Agriculture/Agradditions and its two dependent addons, Botany Pots/Trees, and Productive Bees/Trees are also removed. ATM progression and Time in a Bottle use retained ingredients; obsolete quests, drops, and integrations are cleaned up.
 - Removed crop market entries, quests, and integrations are cleaned up. Two late-game ATM ingredients have replacements so those recipes remain craftable.
 - **B** opens your equipped Sophisticated Backpack; **Alt+B** creates a JourneyMap waypoint.
