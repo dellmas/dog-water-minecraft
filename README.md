@@ -18,7 +18,7 @@ The server entry is included: `server.dogwaterdev.com:25566`.
 
 The profile uses Minecraft **1.20.1**, Forge **47.4.0**, and ATM9 **1.1.1**, with the server's custom mod additions/removals and compatibility settings. Each player needs their own Minecraft Java account.
 
-## Current profile: 1.0.12
+## Current profile: 1.0.13
 
 ### November 5 profile changes
 
@@ -35,7 +35,7 @@ Removed 63 mod files today, including the redundant CC: Tweaked 1.113.1 copy. CC
 - The green vanilla recipe-book button is restored, including FastWorkbench, Crafting Tweaks, KubeJS, Quark, and Patchouli settings. JEI recipe lookup remains available with **R**.
 - Controller settings and the F9 shortcut conflict fix included.
 - The shared profile uses standard Minecraft and mod textures. Optimum Realism and its texture overlay are omitted. The patched Complementary shader remains selected and can be disabled under **Video Settings > Shader Packs**. Frame limit is 60 FPS, VSync off.
-- Grave recovery/death-marker integration included. Server scripts are active and client scripts are included for your next launch. Eighteen logic tests passed; an actual in-game grave recovery test is still pending. It backs up removed death markers locally and preserves ordinary waypoints.
+- Grave recovery/death-marker integration included. Profile 1.0.13 corrects a client callback crash that prevented cleanup. Three checks using the installed Rhino engine and 18 logic checks passed. Fully restart Minecraft to load the fix; actual in-game cleanup verification remains pending. Ordinary waypoints and unconfirmed deaths are preserved.
 
 ## Memory
 
