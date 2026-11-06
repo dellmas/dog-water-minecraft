@@ -1,14 +1,14 @@
 {
-  "version": "1.0.12",
+  "version": "1.0.13",
   "minecraft": "1.20.1",
   "forge": "47.4.0",
   "basePack": "ATM9",
   "basePackVersion": "1.1.1",
   "assetName": "Dog-Water-Minecraft.zip",
-  "bytes": 48386134,
-  "sha256": "9f62342a5843dc287585c4f5ad56ccc80981e2163fc83e344aed45ec8d0f9a62",
+  "bytes": 48386180,
+  "sha256": "683f2998f92eed09bb0ee9eb0e79c09eb5766413359559bb4b1bc97c65d6f05c",
   "curseForgeManifestFiles": 369,
   "mods": 366,
-  "graveSyncStatus": "server scripts activated; client scripts installed; live grave recovery test pending",
+  "graveSyncStatus": "Rhino callback crash corrected; installed client file requires client restart; in-game verification pending",
   "textures": "Standard Minecraft and mod textures; Optimum Realism and its overlay omitted from shared profile only"
 }
