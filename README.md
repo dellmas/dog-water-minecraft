@@ -18,7 +18,11 @@ The server entry is included: `server.dogwaterdev.com:25566`.
 
 The profile uses Minecraft **1.20.1**, Forge **47.4.0**, and ATM9 **1.1.1**, with the server's custom mod additions/removals and compatibility settings. Each player needs their own Minecraft Java account.
 
-## Current profile: 1.0.13
+## Current profile: 1.0.14
+
+### November 6 profile changes
+
+Removed Quark's extra transfer buttons from Sophisticated backpack/storage screens to prevent overlapping controls and tooltips. Native Sophisticated transfers remain. Fully restart Minecraft to load the setting; live display/click confirmation is pending.
 
 ### November 5 profile changes
 
@@ -35,7 +39,7 @@ Removed 63 mod files today, including the redundant CC: Tweaked 1.113.1 copy. CC
 - The green vanilla recipe-book button is restored, including FastWorkbench, Crafting Tweaks, KubeJS, Quark, and Patchouli settings. JEI recipe lookup remains available with **R**.
 - Controller settings and the F9 shortcut conflict fix included.
 - The shared profile uses standard Minecraft and mod textures. Optimum Realism and its texture overlay are omitted. The patched Complementary shader remains selected and can be disabled under **Video Settings > Shader Packs**. Frame limit is 60 FPS, VSync off.
-- Grave recovery/death-marker integration included. Profile 1.0.13 corrects a client callback crash that prevented cleanup. Three checks using the installed Rhino engine and 18 logic checks passed. Fully restart Minecraft to load the fix; actual in-game cleanup verification remains pending. Ordinary waypoints and unconfirmed deaths are preserved.
+- Grave recovery/death-marker integration included. Profile 1.0.13 corrected a client callback crash that prevented cleanup. Three checks using the installed Rhino engine and 18 logic checks passed. Fully restart Minecraft to load the fix; actual in-game cleanup verification remains pending. Ordinary waypoints and unconfirmed deaths are preserved.
 
 ## Memory
 
