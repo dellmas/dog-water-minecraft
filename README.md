@@ -18,7 +18,11 @@ The server entry is included: `server.dogwaterdev.com:25566`.
 
 The profile uses Minecraft **1.20.1**, Forge **47.4.0**, and ATM9 **1.1.1**, with the server's custom mod additions/removals and compatibility settings. Each player needs their own Minecraft Java account.
 
-## Current profile: 1.0.16
+## Current profile: 1.0.17
+
+### November 7 profile changes
+
+Enabled the Twilight Forest Uncrafting Table. Uncrafting, special uncrafting recipes and repairs cost zero XP. Other restrictions are unchanged.
 
 ### November 6 profile changes
 
