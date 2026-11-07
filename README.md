@@ -18,11 +18,13 @@ The server entry is included: `server.dogwaterdev.com:25566`.
 
 The profile uses Minecraft **1.20.1**, Forge **47.4.0**, and ATM9 **1.1.1**, with the server's custom mod additions/removals and compatibility settings. Each player needs their own Minecraft Java account.
 
-## Current profile: 1.0.18
+## Current profile: 1.0.19
 
 ### November 7 profile changes
 
-Added Crystalcraft Unlimited with prism tools, weapons and armor, using its default content. New ores generate in newly explored chunks. Current totals: 346 server mods and 367 client mods. Fully restart Minecraft or import this updated profile before joining.
+Added Tool Stats 16.0.10 on the client for additional equipment tooltip information. Bookshelf is already included. No server restart is required. Fully restart Minecraft to load it. Current totals: 346 server / 368 client mods.
+
+Added Crystalcraft Unlimited with prism tools, weapons and armor, using its default content. New ores generate in newly explored chunks. Fully restart Minecraft or import this updated profile before joining.
 
 Enabled the Twilight Forest Uncrafting Table. Uncrafting, special uncrafting recipes and repairs cost zero XP. Other restrictions are unchanged.
 
