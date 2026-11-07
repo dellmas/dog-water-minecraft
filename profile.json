@@ -1,16 +1,17 @@
 {
-  "version": "1.0.16",
+  "version": "1.0.17",
   "minecraft": "1.20.1",
   "forge": "47.4.0",
   "basePack": "ATM9",
   "basePackVersion": "1.1.1",
   "assetName": "Dog-Water-Minecraft.zip",
-  "bytes": 48387154,
-  "sha256": "0153d23ed2b6914652f1d69df05eaf19f8b82d3c91f37ed7ee4ba272200ae773",
+  "bytes": 48388650,
+  "sha256": "a4b949a6d3794afd91578fd1bf8d9e48c01413a3ed31b52ba2f52dd27748c61b",
   "curseForgeManifestFiles": 369,
   "mods": 366,
   "graveSyncStatus": "Rhino callback crash corrected; installed client file requires client restart; in-game verification pending",
   "textures": "Standard Minecraft and mod textures; Optimum Realism and its overlay omitted from shared profile only",
   "backpackTransferUi": "Quark extra buttons disabled on Sophisticated screens; client restart and live display/click check pending",
-  "inventorySortButtonAnchor": "Keeps A-Z attached to recipe-book inventory edge; Rhino mapped Java binding verified; full client restart and live check pending"
+  "inventorySortButtonAnchor": "Keeps A-Z attached to recipe-book inventory edge; Rhino mapped Java binding verified; full client restart and live check pending",
+  "uncraftingTable": "Enabled; normal/special uncrafting and repair XP costs zero; live server recipe/config and client synchronization verified"
 }
