@@ -18,9 +18,11 @@ The server entry is included: `server.dogwaterdev.com:25566`.
 
 The profile uses Minecraft **1.20.1**, Forge **47.4.0**, and ATM9 **1.1.1**, with the server's custom mod additions/removals and compatibility settings. Each player needs their own Minecraft Java account.
 
-## Current profile: 1.0.19
+## Current profile: 1.0.20
 
 ### November 7 profile changes
+
+Ordinary player, mining and mob drops now last one hour of loaded, ticking time. Remaining lifetime survives chunk unloads and saves. This is already active on the server; existing players need no client restart or profile update for this setting. Grave storage and special modded item lifetimes are preserved.
 
 Added Tool Stats 16.0.10 on the client for additional equipment tooltip information. Bookshelf is already included. No server restart is required. Fully restart Minecraft to load it. Current totals: 346 server / 368 client mods.
 
