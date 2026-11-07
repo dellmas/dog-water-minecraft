@@ -18,9 +18,11 @@ The server entry is included: `server.dogwaterdev.com:25566`.
 
 The profile uses Minecraft **1.20.1**, Forge **47.4.0**, and ATM9 **1.1.1**, with the server's custom mod additions/removals and compatibility settings. Each player needs their own Minecraft Java account.
 
-## Current profile: 1.0.14
+## Current profile: 1.0.15
 
 ### November 6 profile changes
+
+Added a client correction to keep the Inventory Tweaks A-Z tab on the inventory edge when opening or closing the recipe book. Full client restart is required; live visual confirmation is pending.
 
 Removed Quark's extra transfer buttons from Sophisticated backpack/storage screens to prevent overlapping controls and tooltips. Native Sophisticated transfers remain. Fully restart Minecraft to load the setting; live display/click confirmation is pending.
 
