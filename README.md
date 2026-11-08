@@ -18,9 +18,11 @@ The server entry is included: `server.dogwaterdev.com:25566`.
 
 The profile uses Minecraft **1.20.1**, Forge **47.4.0**, and ATM9 **1.1.1**, with the server's custom mod additions/removals and compatibility settings. Each player needs their own Minecraft Java account.
 
-## Current profile: 1.0.20
+## Current profile: 1.0.21
 
 ### November 7 profile changes
+
+Corrected Tool Stats showing -1 for Crystalcraft/custom mining tiers. Unresolved tiers now display the level declared by the tool mod (Platinum: 10). Recognized Forge tiers and other statistics are preserved; actual tool behavior is unchanged. Fully restart Minecraft to load this client-only correction.
 
 Ordinary player, mining and mob drops now last one hour of loaded, ticking time. Remaining lifetime survives chunk unloads and saves. This is already active on the server; existing players need no client restart or profile update for this setting. Grave storage and special modded item lifetimes are preserved.
 
