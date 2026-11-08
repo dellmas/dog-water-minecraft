@@ -18,9 +18,11 @@ The server entry is included: `server.dogwaterdev.com:25566`.
 
 The profile uses Minecraft **1.20.1**, Forge **47.4.0**, and ATM9 **1.1.1**, with the server's custom mod additions/removals and compatibility settings. Each player needs their own Minecraft Java account.
 
-## Current profile: 1.0.27
+## Current profile: 1.0.28
 
 ### November 8 profile changes
+
+One player sleeping now skips night. `/tpa <player>` or `/tpto <player>` teleports only you to that online player without an acceptance request, using FTB Essentials' existing cooldown and `/back` history. `/tpahere` still requests permission to bring someone to you. Active live on the server; no client update required for these settings.
 
 Enabled an intact-city adventure dimension alongside the existing Overworld. Use **`/warp cities`** to visit and **`/home`** to return to your saved home. Buildings, loot and mob spawners are enabled; normal combat still applies. The public arrival is on a lit street. Existing Overworld builds/progress are preserved. Existing clients already have Lost Cities and can visit without adding a mod. Shared configuration now matches the server’s city preset.
 
