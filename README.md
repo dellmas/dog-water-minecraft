@@ -18,9 +18,11 @@ The server entry is included: `server.dogwaterdev.com:25566`.
 
 The profile uses Minecraft **1.20.1**, Forge **47.4.0**, and ATM9 **1.1.1**, with the server's custom mod additions/removals and compatibility settings. Each player needs their own Minecraft Java account.
 
-## Current profile: 1.0.24
+## Current profile: 1.0.25
 
 ### November 8 profile changes
+
+Added a Take All button to the Twilight Forest Uncrafting Table. It collects recoverable materials from one recipe batch through normal slot actions. Red/lost ingredients stay lost; full inventories preserve the input and partial inventories leave the remainder in the table. Existing zero-XP settings remain. Fully restart Minecraft to load the client-only button; no server restart is needed. Twenty native inventory checks and eleven native button/Rhino checks passed; live display verification is pending.
 
 Fixed client startup failing with ResourcePackInfo for the backpack pickup bridge. Bridge 1.0.1 includes required Minecraft 1.20.1 resource-pack metadata. Native metadata parsing and a full client launch to the main menu passed. Gameplay and network code are unchanged.
 
