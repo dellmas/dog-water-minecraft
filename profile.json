@@ -1,12 +1,12 @@
 {
-  "version": "1.0.27",
+  "version": "1.0.28",
   "minecraft": "1.20.1",
   "forge": "47.4.0",
   "basePack": "ATM9",
   "basePackVersion": "1.1.1",
   "assetName": "Dog-Water-Minecraft.zip",
-  "bytes": 48411973,
-  "sha256": "94e1b665502685a5cb6050712a52be9f77814b57ff69d1a0c0b6dc338115152d",
+  "bytes": 48413349,
+  "sha256": "b23015ba7a9e6ac936770ef9a8460327cd9d47e54b74a4393bec3edd42d6978d",
   "curseForgeManifestFiles": 371,
   "mods": 369,
   "graveSyncStatus": "Rhino callback crash corrected; installed client file requires client restart; in-game verification pending",
@@ -90,5 +90,19 @@
     "mainOverworldPreserved": true,
     "newClientModRequired": false,
     "arrivalVerified": true
+  },
+  "playerConvenience": {
+    "oneSleeper": true,
+    "playersSleepingPercentage": 0,
+    "directTeleportCommands": [
+      "/tpa <player>",
+      "/tpto <player>"
+    ],
+    "acceptanceRequired": false,
+    "nativeFtbCooldownPreserved": true,
+    "nativeBackHistoryPreserved": true,
+    "tpahereStillRequiresAcceptance": true,
+    "appliedLiveWithoutRestart": true,
+    "clientUpdateRequired": false
   }
 }
