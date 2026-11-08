@@ -18,9 +18,11 @@ The server entry is included: `server.dogwaterdev.com:25566`.
 
 The profile uses Minecraft **1.20.1**, Forge **47.4.0**, and ATM9 **1.1.1**, with the server's custom mod additions/removals and compatibility settings. Each player needs their own Minecraft Java account.
 
-## Current profile: 1.0.22
+## Current profile: 1.0.23
 
 ### November 7 profile changes
+
+Fixed temporary quest reward pickup visuals being kept around by the one-hour drop timer. Real drops still last an hour; quest/give animation copies expire normally. Nine old visuals were cleared live, with no server/client restart needed for existing players. Thirteen native lifecycle checks passed.
 
 Corrected Tool Stats showing -1 for Crystalcraft/custom mining tiers. Unresolved tiers now display the level declared by the tool mod (Platinum: 10). Recognized Forge tiers and other statistics are preserved; actual tool behavior is unchanged. Fully restart Minecraft to load this client-only correction.
 
