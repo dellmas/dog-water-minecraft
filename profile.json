@@ -1,14 +1,14 @@
 {
-  "version": "1.0.21",
+  "version": "1.0.22",
   "minecraft": "1.20.1",
   "forge": "47.4.0",
   "basePack": "ATM9",
   "basePackVersion": "1.1.1",
   "assetName": "Dog-Water-Minecraft.zip",
-  "bytes": 48390722,
-  "sha256": "b0f14647013735843d616cf1e096dcee96f993044700fea570d5f13f1beea5b9",
+  "bytes": 48408530,
+  "sha256": "a8fa2cb3694fdc62bf7c4ddc2e03ebb721e12e6f8e8689c8f3a085d5770a9bee",
   "curseForgeManifestFiles": 371,
-  "mods": 368,
+  "mods": 369,
   "graveSyncStatus": "Rhino callback crash corrected; installed client file requires client restart; in-game verification pending",
   "textures": "Standard Minecraft and mod textures; Optimum Realism and its overlay omitted from shared profile only",
   "backpackTransferUi": "Quark extra buttons disabled on Sophisticated screens; client restart and live display/click check pending",
@@ -40,5 +40,16 @@
     "loadedTickingTimeOnly": true,
     "appliedLive": true,
     "clientUpdateRequiredForServerSetting": false
+  },
+  "backpackPickupNotifications": {
+    "bridge": "1.0.0",
+    "pickupUpgrade": true,
+    "magnetUpgrade": true,
+    "badge": "Sophisticated backpack icon",
+    "counts": "accepted amount only",
+    "clientRestartRequired": true,
+    "serverActivation": "staged for next server start; occupied server not restarted",
+    "liveVisualVerified": false,
+    "nativeCollectionChecksPassed": 8
   }
 }
