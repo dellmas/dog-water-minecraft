@@ -18,9 +18,11 @@ The server entry is included: `server.dogwaterdev.com:25566`.
 
 The profile uses Minecraft **1.20.1**, Forge **47.4.0**, and ATM9 **1.1.1**, with the server's custom mod additions/removals and compatibility settings. Each player needs their own Minecraft Java account.
 
-## Current profile: 1.0.26
+## Current profile: 1.0.27
 
 ### November 8 profile changes
+
+Enabled an intact-city adventure dimension alongside the existing Overworld. Use **`/warp cities`** to visit and **`/home`** to return to your saved home. Buildings, loot and mob spawners are enabled; normal combat still applies. The public arrival is on a lit street. Existing Overworld builds/progress are preserved. Existing clients already have Lost Cities and can visit without adding a mod. Shared configuration now matches the server’s city preset.
 
 Added **Ctrl + Home** (the Home key) to run `/home` without typing. It fires once per press while playing, stays inactive in chat/inventories/menus and keeps normal server permissions/cooldown. Fully restart Minecraft to activate this client-only shortcut. Ten installed Rhino/native Forge keyboard-event checks passed; a real in-game key press has not been tested.
 
