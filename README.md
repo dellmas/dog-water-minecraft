@@ -18,7 +18,11 @@ The server entry is included: `server.dogwaterdev.com:25566`.
 
 The profile uses Minecraft **1.20.1**, Forge **47.4.0**, and ATM9 **1.1.1**, with the server's custom mod additions/removals and compatibility settings. Each player needs their own Minecraft Java account.
 
-## Current profile: 1.0.23
+## Current profile: 1.0.24
+
+### November 8 profile changes
+
+Fixed client startup failing with ResourcePackInfo for the backpack pickup bridge. Bridge 1.0.1 includes required Minecraft 1.20.1 resource-pack metadata. Native metadata parsing and a full client launch to the main menu passed. Gameplay and network code are unchanged.
 
 ### November 7 profile changes
 
