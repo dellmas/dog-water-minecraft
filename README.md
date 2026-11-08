@@ -18,7 +18,7 @@ The server entry is included: `server.dogwaterdev.com:25566`.
 
 The profile uses Minecraft **1.20.1**, Forge **47.4.0**, and ATM9 **1.1.1**, with the server's custom mod additions/removals and compatibility settings. Each player needs their own Minecraft Java account.
 
-## Current profile: 1.0.21
+## Current profile: 1.0.22
 
 ### November 7 profile changes
 
@@ -26,7 +26,7 @@ Corrected Tool Stats showing -1 for Crystalcraft/custom mining tiers. Unresolved
 
 Ordinary player, mining and mob drops now last one hour of loaded, ticking time. Remaining lifetime survives chunk unloads and saves. This is already active on the server; existing players need no client restart or profile update for this setting. Grave storage and special modded item lifetimes are preserved.
 
-Added Tool Stats 16.0.10 on the client for additional equipment tooltip information. Bookshelf is already included. No server restart is required. Fully restart Minecraft to load it. Current totals: 346 server / 368 client mods.
+Added Tool Stats 16.0.10 on the client for additional equipment tooltip information. Bookshelf is already included. The Tool Stats addition itself needs only a client restart. Fully restart Minecraft to load it. Profile 1.0.22 has 369 client mods; the server has 347 JARs once the bridge is installed.
 
 Added Crystalcraft Unlimited with prism tools, weapons and armor, using its default content. New ores generate in newly explored chunks. Fully restart Minecraft or import this updated profile before joining.
 
@@ -68,3 +68,7 @@ The ZIP is a CurseForge manifest with configuration overrides; CurseForge downlo
 ## Credits
 
 Based on [ATM9 by ATMTeam](https://www.curseforge.com/minecraft/modpacks/all-the-mods-9). Mods, resource packs, and shaders remain the work of their respective authors. This is a custom profile, not an official ATMTeam release.
+
+### Backpack pickup notifications
+
+Profile 1.0.22 adds a small MIT-licensed bridge for the pinned Sophisticated Backpacks and Loot Journal versions. Pickup and magnet upgrades use the normal journal notice with a backpack badge. Full bags report nothing; partial pickups report only accepted items. The bridge must be loaded by the server and client. Fully restart Minecraft after importing/updating. Server activation waits for safe maintenance; no occupied-server restart is forced.
