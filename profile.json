@@ -1,12 +1,12 @@
 {
-  "version": "1.0.25",
+  "version": "1.0.26",
   "minecraft": "1.20.1",
   "forge": "47.4.0",
   "basePack": "ATM9",
   "basePackVersion": "1.1.1",
   "assetName": "Dog-Water-Minecraft.zip",
-  "bytes": 48410722,
-  "sha256": "678779e62aaf24d8bcb935a191123eb1dc0868b3cd485b0fef390e0627857ceb",
+  "bytes": 48411486,
+  "sha256": "07ae2759c00a4855fdaa9bf88aa988c9af06a77a53baf0d67fc91bcd77e368e6",
   "curseForgeManifestFiles": 371,
   "mods": 369,
   "graveSyncStatus": "Rhino callback crash corrected; installed client file requires client restart; in-game verification pending",
@@ -68,5 +68,16 @@
     "oneRecipeBatchPerClick": true,
     "fullInventorySafe": true,
     "liveVisualVerified": false
+  },
+  "homeHotkey": {
+    "shortcut": "Ctrl + Home",
+    "command": "home",
+    "clientOnly": true,
+    "clientRestartRequired": true,
+    "worldOnly": true,
+    "repeatSuppressed": true,
+    "serverCooldownUnchanged": true,
+    "nativeInputChecksPassed": 10,
+    "liveKeyPressVerified": false
   }
 }
