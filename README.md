@@ -18,9 +18,11 @@ The server entry is included: `server.dogwaterdev.com:25566`.
 
 The profile uses Minecraft **1.20.1**, Forge **47.4.0**, and ATM9 **1.1.1**, with the server's custom mod additions/removals and compatibility settings. Each player needs their own Minecraft Java account.
 
-## Current profile: 1.0.25
+## Current profile: 1.0.26
 
 ### November 8 profile changes
+
+Added **Ctrl + Home** (the Home key) to run `/home` without typing. It fires once per press while playing, stays inactive in chat/inventories/menus and keeps normal server permissions/cooldown. Fully restart Minecraft to activate this client-only shortcut. Ten installed Rhino/native Forge keyboard-event checks passed; a real in-game key press has not been tested.
 
 Added a Take All button to the Twilight Forest Uncrafting Table. It collects recoverable materials from one recipe batch through normal slot actions. Red/lost ingredients stay lost; full inventories preserve the input and partial inventories leave the remainder in the table. Existing zero-XP settings remain. Fully restart Minecraft to load the client-only button; no server restart is needed. Twenty native inventory checks and eleven native button/Rhino checks passed; live display verification is pending.
 
