@@ -1,12 +1,12 @@
 {
-  "version": "1.0.20",
+  "version": "1.0.21",
   "minecraft": "1.20.1",
   "forge": "47.4.0",
   "basePack": "ATM9",
   "basePackVersion": "1.1.1",
   "assetName": "Dog-Water-Minecraft.zip",
-  "bytes": 48389501,
-  "sha256": "898be4090e7a86c3cb1d90eded5461b384d85e5cc95f96d43e3064c73879beba",
+  "bytes": 48390722,
+  "sha256": "b0f14647013735843d616cf1e096dcee96f993044700fea570d5f13f1beea5b9",
   "curseForgeManifestFiles": 371,
   "mods": 368,
   "graveSyncStatus": "Rhino callback crash corrected; installed client file requires client restart; in-game verification pending",
@@ -26,7 +26,13 @@
     "projectId": 377109,
     "fileId": 7613277,
     "clientOnly": true,
-    "clientRestartRequired": true
+    "clientRestartRequired": true,
+    "harvestLevelFix": {
+      "clientOnly": true,
+      "unknownTierFallback": "actual declared tier level",
+      "clientRestartRequired": true,
+      "nativeBindingChecksPassed": 14
+    }
   },
   "droppedItemLifetime": {
     "ticks": 72000,
