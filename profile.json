@@ -51,8 +51,9 @@
     "badge": "Sophisticated backpack icon",
     "counts": "accepted amount only",
     "clientRestartRequired": true,
-    "serverActivation": "staged for next server start; occupied server not restarted",
+    "serverActivation": "active; empty-server backup and restart completed",
     "liveVisualVerified": false,
-    "nativeCollectionChecksPassed": 8
+    "nativeCollectionChecksPassed": 8,
+    "activationCheckedUtc": "2026-11-08T04:38:52.4408946Z"
   }
 }
