@@ -1,1 +1,2 @@
-7c1aacfb1a51811f4f035f9cbb24ff2b0807978ce8db9dc90eec4182a1cf6d31  Dog-Water-Minecraft.zip
+335c8447a0fedd194970b8bf133545504f9e72b2e617c5cd14a8275862647eb0  Dog-Water-Minecraft.zip
+0a6a7f82e771ce95ebca47558b3909c3c65acb274bd9c050808c1c183d820479  Dog-Water-Minecraft-files.json
