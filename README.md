@@ -30,6 +30,8 @@ This repository is public. Friends can download the profile without a GitHub acc
 
 
 
+A new CurseForge instance does not automatically copy local maps, saves or personal settings from an older instance. Transfer any wanted personal data once; server-side player progress is retained.
+
 The server entry is included: `server.dogwaterdev.com:25566`.
 
 
