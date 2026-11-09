@@ -18,7 +18,13 @@ The server entry is included: `server.dogwaterdev.com:25566`.
 
 The profile uses Minecraft **1.20.1**, Forge **47.4.0**, and ATM9 **1.1.1**, with the server's custom mod additions/removals and compatibility settings. Each player needs their own Minecraft Java account.
 
-## Current profile: 1.0.29
+## Current profile: 1.0.30
+
+### November 9 profile changes
+
+Added Light Engine to extend ordinary floor/wall torch light from 14 to 24. This changes actual block lighting, with light level 8 measured 16 blocks away in the native server audit. Other light sources keep their levels. Owner client and server updated; fully restart Minecraft, and friends should import profile **1.0.30**. Existing cached torch light may require breaking/replacing that torch. Client visual verification remains pending.
+
+The MIT-licensed mod includes a packaging-only compatibility fix for the pack’s MixinExtras dependency; all 97 gameplay classes are unchanged. Twelve native lighting/lifecycle checks passed.
 
 ### November 8 profile changes
 
