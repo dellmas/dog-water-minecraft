@@ -1,12 +1,12 @@
 {
-  "version": "1.0.32",
+  "version": "1.0.33",
   "minecraft": "1.20.1",
   "forge": "47.4.0",
   "basePack": "ATM9",
   "basePackVersion": "1.1.1",
   "assetName": "Dog-Water-Minecraft.zip",
-  "bytes": 48820728,
-  "sha256": "335c8447a0fedd194970b8bf133545504f9e72b2e617c5cd14a8275862647eb0",
+  "bytes": 48821138,
+  "sha256": "055b3f907b1f1ce0283a74859b820a3afdb4a6112291bf248f5701d2929a1bd8",
   "curseForgeManifestFiles": 372,
   "mods": 371,
   "graveSyncStatus": "Rhino callback crash corrected; installed client file requires client restart; in-game verification pending",
@@ -135,7 +135,7 @@
   "automaticUpdates": {
     "mod": "AutoModpack",
     "version": "4.0.7",
-    "managedFiles": 1409,
+    "managedFiles": 1410,
     "managedMods": 370,
     "sourceOfTruth": "published GitHub release",
     "transport": "server-hosted hash-verified mirror on TCP25566",
@@ -152,5 +152,15 @@
     "nativeTransportBytes": 22496,
     "ownerFullClientRestartRequired": true,
     "livePlayerEnrollmentVerified": false
+  },
+  "packedStorage": {
+    "dropPacked": true,
+    "scope": "Sophisticated Storage chests and barrels",
+    "vanillaChests": "use Packing Tape or Basic Tier Upgrade first",
+    "newModRequired": false,
+    "appliedLive": true,
+    "serverRestartRequired": false,
+    "nativeRuntimeFlagVerified": true,
+    "playerContainersTouched": 0
   }
 }
