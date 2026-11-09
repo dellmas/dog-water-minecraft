@@ -144,6 +144,13 @@
     "nativeIncrementalChecksPassed": 11,
     "initialEnrollmentRequired": true,
     "unlistedCustomJarUpdatesRequireReview": true,
-    "activation": "staged; native full-pack and transport tests passed"
+    "activation": "active on server; one-time player enrollment still required",
+    "serverRestartedWithPlayers": 0,
+    "productionManifestExactlyMatchesRepo": true,
+    "productionAuthenticationEnabled": true,
+    "nativeTransportFilesTested": 3,
+    "nativeTransportBytes": 22496,
+    "ownerFullClientRestartRequired": true,
+    "livePlayerEnrollmentVerified": false
   }
 }
