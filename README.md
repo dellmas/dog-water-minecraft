@@ -38,11 +38,15 @@ The profile uses Minecraft **1.20.1**, Forge **47.4.0**, and ATM9 **1.1.1**, wit
 
 
 
-## Current profile: 1.0.31
+## Current profile: 1.0.32
 
 
 
 ### November 9 profile changes
+
+**Automatic updates (AutoModpack4.0.7):** import profile1.0.32 once, join Dog Water Minecraft, review the server certificate/pack and complete the initial enrollment/restart. Later launches compare the server-hosted mirror of the published GitHub release and fetch only new/changed managed files; obsolete managed files are removed. Ctrl+Home, required pack configs and our scripts are included. Personal controls, graphics, maps, JEI preferences and saves are excluded. Updates to unlisted custom JARs can require in-game review and a restart. Exact managed-file hashes are published in `profile-files.json`. Current setup is staged for server activation after publication; the release notes will reflect final activation.
+
+
 
 The **`/warp cities`** dimension now generates without spawners. **2,243 existing city spawners** removed; loot and city buildings retained. Spawners in other dimensions remain. This is active server-side; existing players need no client/profile update for this change. Shared 1.0.31 includes matching city-only generation settings.
 
