@@ -90,9 +90,11 @@
     "mainOverworldPreserved": true,
     "newClientModRequired": false,
     "arrivalVerified": true,
-    "existingSpawnersRemoved": 2236,
+    "existingSpawnersRemoved": 2243,
     "otherDimensionSpawnersPreserved": true,
-    "clientUpdateRequired": false
+    "clientUpdateRequired": false,
+    "remainingSavedSpawners": 0,
+    "originalLootContainersPreserved": 534
   },
   "playerConvenience": {
     "oneSleeper": true,
