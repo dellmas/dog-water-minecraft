@@ -1,14 +1,14 @@
 {
-  "version": "1.0.29",
+  "version": "1.0.30",
   "minecraft": "1.20.1",
   "forge": "47.4.0",
   "basePack": "ATM9",
   "basePackVersion": "1.1.1",
   "assetName": "Dog-Water-Minecraft.zip",
-  "bytes": 48412668,
-  "sha256": "02d5d16ad077646dae436a1cb4afef0fd0e36a998c148ce7e3704a7aaebe368c",
+  "bytes": 48818249,
+  "sha256": "a37469a8782d2d01c6aadbdeffca89483dc464ae8ddeffc36cbadd62e9e34a7f",
   "curseForgeManifestFiles": 371,
-  "mods": 369,
+  "mods": 370,
   "graveSyncStatus": "Rhino callback crash corrected; installed client file requires client restart; in-game verification pending",
   "textures": "Standard Minecraft and mod textures; Optimum Realism and its overlay omitted from shared profile only",
   "backpackTransferUi": "Quark extra buttons disabled on Sophisticated screens; client restart and live display/click check pending",
@@ -112,5 +112,19 @@
     "existingClaimsPreserved": true,
     "appliedLiveWithoutRestart": true,
     "clientUpdateRequired": false
+  },
+  "lightEngine": {
+    "version": "1.0.0+1.20.1-dwd.1",
+    "torchEmission": 24,
+    "wallTorchEmission": 24,
+    "otherLightSourcesUnchanged": true,
+    "coloredLighting": false,
+    "bothClientAndServer": true,
+    "clientRestartRequired": true,
+    "nativeLightingChecksPassed": 12,
+    "liveClientVisualVerified": false,
+    "packagingOnlyDependencyFix": true,
+    "gameplayClassesUnchanged": 97,
+    "existingCachedTorchesMayNeedReplacement": true
   }
 }
