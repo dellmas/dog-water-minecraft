@@ -1,14 +1,14 @@
 {
-  "version": "1.0.31",
+  "version": "1.0.32",
   "minecraft": "1.20.1",
   "forge": "47.4.0",
   "basePack": "ATM9",
   "basePackVersion": "1.1.1",
   "assetName": "Dog-Water-Minecraft.zip",
-  "bytes": 48820192,
-  "sha256": "7c1aacfb1a51811f4f035f9cbb24ff2b0807978ce8db9dc90eec4182a1cf6d31",
-  "curseForgeManifestFiles": 371,
-  "mods": 370,
+  "bytes": 48820728,
+  "sha256": "335c8447a0fedd194970b8bf133545504f9e72b2e617c5cd14a8275862647eb0",
+  "curseForgeManifestFiles": 372,
+  "mods": 371,
   "graveSyncStatus": "Rhino callback crash corrected; installed client file requires client restart; in-game verification pending",
   "textures": "Standard Minecraft and mod textures; Optimum Realism and its overlay omitted from shared profile only",
   "backpackTransferUi": "Quark extra buttons disabled on Sophisticated screens; client restart and live display/click check pending",
@@ -131,5 +131,19 @@
     "packagingOnlyDependencyFix": true,
     "gameplayClassesUnchanged": 97,
     "existingCachedTorchesMayNeedReplacement": true
+  },
+  "automaticUpdates": {
+    "mod": "AutoModpack",
+    "version": "4.0.7",
+    "managedFiles": 1409,
+    "managedMods": 370,
+    "sourceOfTruth": "published GitHub release",
+    "transport": "server-hosted hash-verified mirror on TCP25566",
+    "automaticOnLaunch": true,
+    "personalFilesExcluded": true,
+    "nativeIncrementalChecksPassed": 11,
+    "initialEnrollmentRequired": true,
+    "unlistedCustomJarUpdatesRequireReview": true,
+    "activation": "staged; native full-pack and transport tests passed"
   }
 }
