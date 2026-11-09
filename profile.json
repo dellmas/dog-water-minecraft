@@ -1,12 +1,12 @@
 {
-  "version": "1.0.30",
+  "version": "1.0.31",
   "minecraft": "1.20.1",
   "forge": "47.4.0",
   "basePack": "ATM9",
   "basePackVersion": "1.1.1",
   "assetName": "Dog-Water-Minecraft.zip",
-  "bytes": 48818249,
-  "sha256": "a37469a8782d2d01c6aadbdeffca89483dc464ae8ddeffc36cbadd62e9e34a7f",
+  "bytes": 48820192,
+  "sha256": "7c1aacfb1a51811f4f035f9cbb24ff2b0807978ce8db9dc90eec4182a1cf6d31",
   "curseForgeManifestFiles": 371,
   "mods": 370,
   "graveSyncStatus": "Rhino callback crash corrected; installed client file requires client restart; in-game verification pending",
@@ -82,14 +82,17 @@
   },
   "cityDimension": {
     "dimension": "lostcities:lostcity",
-    "profile": "nodamage",
+    "profile": "dwd_cities_no_spawners",
     "warp": "/warp cities",
     "return": "/home",
     "lootEnabled": true,
-    "spawnersEnabled": true,
+    "spawnersEnabled": false,
     "mainOverworldPreserved": true,
     "newClientModRequired": false,
-    "arrivalVerified": true
+    "arrivalVerified": true,
+    "existingSpawnersRemoved": 2236,
+    "otherDimensionSpawnersPreserved": true,
+    "clientUpdateRequired": false
   },
   "playerConvenience": {
     "oneSleeper": true,
