@@ -18,9 +18,11 @@ The server entry is included: `server.dogwaterdev.com:25566`.
 
 The profile uses Minecraft **1.20.1**, Forge **47.4.0**, and ATM9 **1.1.1**, with the server's custom mod additions/removals and compatibility settings. Each player needs their own Minecraft Java account.
 
-## Current profile: 1.0.28
+## Current profile: 1.0.29
 
 ### November 8 profile changes
+
+Claim allowance doubled from **500 to 1,000 chunks per team**. Force-loading remains **25**. Applied live to both existing players; current claims are preserved. No client update needed for this server setting.
 
 One player sleeping now skips night. `/tpa <player>` or `/tpto <player>` teleports only you to that online player without an acceptance request, using FTB Essentials' existing cooldown and `/back` history. `/tpahere` still requests permission to bring someone to you. Active live on the server; no client update required for these settings.
 
