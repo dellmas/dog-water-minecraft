@@ -40,13 +40,16 @@ The profile uses Minecraft **1.20.1**, Forge **47.4.0**, and ATM9 **1.1.1**, wit
 
 
 
-## Current profile: 1.0.32
+## Current profile: 1.0.33
 
 
 
 ### November 9 profile changes
 
-**Automatic updates (AutoModpack4.0.7):** import profile1.0.32 once, join Dog Water Minecraft, review the server certificate/pack and complete the initial enrollment/restart. Later launches compare the server-hosted mirror of the published GitHub release and fetch only new/changed managed files; obsolete managed files are removed. Ctrl+Home, required pack configs and our scripts are included. Personal controls, graphics, maps, JEI preferences and saves are excluded. Updates to unlisted custom JARs can require in-game review and a restart. Exact managed-file hashes are published in `profile-files.json`. Active on the server after an empty-server backup/restart. Production manifest paths/hashes/sizes exactly match all 1,409 published managed files. First real-player enrollment remains to be completed.
+**Moving filled storage:** Sophisticated Storage chests and barrels now retain contents automatically when broken, using the native packed-drop setting. Live on the server without a restart; matching client config delivered through AutoModpack. Ordinary Minecraft chests still require Packing Tape or an in-place Basic Tier Upgrade before moving them. No new mod.
+
+
+**Automatic updates (AutoModpack4.0.7):** import profile1.0.32 once, join Dog Water Minecraft, review the server certificate/pack and complete the initial enrollment/restart. Later launches compare the server-hosted mirror of the published GitHub release and fetch only new/changed managed files; obsolete managed files are removed. Ctrl+Home, required pack configs and our scripts are included. Personal controls, graphics, maps, JEI preferences and saves are excluded. Updates to unlisted custom JARs can require in-game review and a restart. Exact managed-file hashes are published in `profile-files.json`. Active on the server after an empty-server backup/restart. Production manifest paths/hashes/sizes exactly match all 1,410 published managed files. First real-player enrollment remains to be completed.
 
 
 
