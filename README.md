@@ -202,3 +202,7 @@ Based on [ATM9 by ATMTeam](https://www.curseforge.com/minecraft/modpacks/all-the
 
 Profile 1.0.22 adds a small MIT-licensed bridge for the pinned Sophisticated Backpacks and Loot Journal versions. Pickup and magnet upgrades use the normal journal notice with a backpack badge. Full bags report nothing; partial pickups report only accepted items. The bridge must be loaded by the server and client. Fully restart Minecraft after importing/updating. The server bridge is active following an empty-server backup and restart. Fully restart your client to load the bridge; live badge/display verification is pending.
 
+
+## Profile 1.0.34 — Twilight Forest portals from cities
+
+Twilight Forest portal creation is enabled outside the Overworld, including the cities dimension. Standard water/flowers/diamond activation applies. Twilight Forest return portals still lead to the Overworld; use `/warp cities` to return to cities. Applied live; no server restart or new mod. AutoModpack delivers the matching config on a later launch.
