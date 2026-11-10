@@ -1,6 +1,6 @@
 {
-  "version": "1.0.33",
-  "profileSha256": "055b3f907b1f1ce0283a74859b820a3afdb4a6112291bf248f5701d2929a1bd8",
+  "version": "1.0.34",
+  "profileSha256": "8f3f47331f38bf826f2401113c441094648c884487797efb9bb8fb016f701443",
   "repository": "https://github.com/dellmas/dog-water-minecraft",
   "personalFilesExcluded": [
     "automodpack/automodpack-client.json",
@@ -25,9 +25,9 @@
   "files": [
     {
       "file": "DOG-WATER-START-HERE.txt",
-      "sha256": "dc5ccbd813fa03da206a49a7e7d8b83c8e17ed1eb398f474e2289f9c82298b34",
-      "sha1": "6ae7eefe81b21a3388ea6f54b974cdcf7a34cdb9",
-      "bytes": 8174,
+      "sha256": "6466485c8ffdcaa5dbe5645d8ced8f7897bc182b1c51184804ca8a3c0aa027b4",
+      "sha1": "94c56e450ea4d8c5a87e274ac52ff01509eba2df",
+      "bytes": 8317,
       "serverCopy": false
     },
     {
@@ -1558,9 +1558,9 @@
     },
     {
       "file": "config/twilightforest-common.toml",
-      "sha256": "b4f1b2499943fff029654c7be05331f8526668c968ae9fd2d4b32ab9628ae76a",
-      "sha1": "ed1d09b555fba151e71fc4d42a54292b6e81b2d7",
-      "bytes": 7758,
+      "sha256": "b79326456e81b6e756b446fb3a656aeb36621af1bfca4236298e82a8f22b0682",
+      "sha1": "582ba2fe859166401a0cda7cd79d64f86842c3ed",
+      "bytes": 7757,
       "serverCopy": false
     },
     {
@@ -1733,8 +1733,8 @@
     },
     {
       "file": "dwd-profile-release.json",
-      "sha256": "bd41ae084734513060ccd1079757949df7001a8796c4f38c8664e194b89d513a",
-      "sha1": "01e5534d0f284062fda81441df47dfb4b6ad3679",
+      "sha256": "658c61282d609ef4ad43194cd9e526747e9641e364fcd7416ad284dde09bd42c",
+      "sha1": "ce139bf9be9c46baedfbec3caf3e106d294f4d1a",
       "bytes": 179,
       "serverCopy": false
     },
