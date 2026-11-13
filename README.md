@@ -40,7 +40,9 @@ The profile uses Minecraft **1.20.1**, Forge **47.4.0**, and ATM9 **1.1.1**, wit
 
 
 
-## Current profile: 1.0.33
+## Current profile 1.0.37
+
+SimpleBoats adds nine vessels, including passenger boats, cargo barges, and larger ships. [SimpleBoats on CurseForge](https://www.curseforge.com/minecraft/mc-mods/simpleboats/files/9246647).
 
 
 
