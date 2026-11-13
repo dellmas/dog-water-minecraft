@@ -1,6 +1,6 @@
 {
-  "version": "1.0.36",
-  "profileSha256": "6882ca0253cb81ebc430db28f3a307e4ce9c7ffc664dccaf70d117f5fad92540",
+  "version": "1.0.37",
+  "profileSha256": "11c1fec4010871072547b8254dc68a81e0e4f013144ce0ceb8cab955800ccecc",
   "repository": "https://github.com/dellmas/dog-water-minecraft",
   "personalFilesExcluded": [
     "automodpack/automodpack-client.json",
@@ -32,9 +32,9 @@
     },
     {
       "file": "DOG-WATER-START-HERE.txt",
-      "sha256": "e58d43233c1f2ce2fc8c8c8fe84aec7bcd6ba5da76d7ac4f1a765db5bf9b3486",
-      "sha1": "e9145a7ac32754f23372868061328dac53d348aa",
-      "bytes": 8396,
+      "sha256": "5aa5c6e9b63e8042a9e8285da9555cf2a817aa8280bb3d9465824dd686af07dd",
+      "sha1": "d65fa40bfcd0cc9335f52d9a681b58a6e27f46ed",
+      "bytes": 8464,
       "serverCopy": false
     },
     {
@@ -1747,8 +1747,8 @@
     },
     {
       "file": "dwd-profile-release.json",
-      "sha256": "ecf9c6b89f70ff4584618125ff5edb9d41e6c43ec0550000669af444fea05701",
-      "sha1": "021cdb3b24d963a87e4f98d7001ec6668e17782c",
+      "sha256": "105e676a7101270b309f9028a52c40774bd64cae192e53dcad876d03303524a6",
+      "sha1": "401047b57ec8106aeb4ae6ad2e9d12fb249cfe01",
       "bytes": 179,
       "serverCopy": false
     },
@@ -11810,6 +11810,13 @@
       "sha1": "26a38721914bc23d3757e31892a9e16753b522c6",
       "bytes": 46530,
       "serverCopy": false
+    },
+    {
+      "file": "mods/SimpleBoats-Forge-1.20.1-0.4.9-beta.1.jar",
+      "sha256": "d9890c3cfe4af45ff22babdf1984bc1e09a17d8e6b323fb7ab262991691b9414",
+      "sha1": "ca635db4b3084cf3dbccee517331b6c2daf45790",
+      "bytes": 217666,
+      "serverCopy": true
     },
     {
       "file": "mods/SmartBrainLib-forge-1.20.1-1.15.jar",
