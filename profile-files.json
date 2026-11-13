@@ -1,6 +1,6 @@
 {
-  "version": "1.0.34",
-  "profileSha256": "8f3f47331f38bf826f2401113c441094648c884487797efb9bb8fb016f701443",
+  "version": "1.0.35",
+  "profileSha256": "8c1fa175c4f9f94407cb6a1fbb5014f2528c65702b2f07edca9d4402f028466c",
   "repository": "https://github.com/dellmas/dog-water-minecraft",
   "personalFilesExcluded": [
     "automodpack/automodpack-client.json",
@@ -25,8 +25,8 @@
   "files": [
     {
       "file": "DOG-WATER-START-HERE.txt",
-      "sha256": "6466485c8ffdcaa5dbe5645d8ced8f7897bc182b1c51184804ca8a3c0aa027b4",
-      "sha1": "94c56e450ea4d8c5a87e274ac52ff01509eba2df",
+      "sha256": "13549973b7f3297cde3e573fef4a773d274a8a15bdf1e35df535925c1d2ca01b",
+      "sha1": "e594735f4d34b86dea9d64990baf0ba11ae11ad3",
       "bytes": 8317,
       "serverCopy": false
     },
@@ -1733,8 +1733,8 @@
     },
     {
       "file": "dwd-profile-release.json",
-      "sha256": "658c61282d609ef4ad43194cd9e526747e9641e364fcd7416ad284dde09bd42c",
-      "sha1": "ce139bf9be9c46baedfbec3caf3e106d294f4d1a",
+      "sha256": "5c6b87ed3bb4ec946db3065cb9f252a7bcc5c0757796b9e8860c5e219fce3df2",
+      "sha1": "1319d55a24a1663233014567e55b357494d2b63d",
       "bytes": 179,
       "serverCopy": false
     },
@@ -4602,17 +4602,17 @@
       "serverCopy": true
     },
     {
-      "file": "mods/Jade-1.20.1-Forge-11.13.2.jar",
-      "sha256": "31949971a7a8d5a5bc95ad9d400cbedfd2d65ffbfb3cea7c0b2fa3b47431a0a5",
-      "sha1": "1997e5fe2db3a0575ca79bfe4720019f01fd2b8c",
-      "bytes": 552486,
+      "file": "mods/Jade-1.20.1-Forge-11.13.3.jar",
+      "sha256": "a632c77975e5aedff6322b0072f8b0db3f5d4bf914df6bdcc87d1aea4d5f55f4",
+      "sha1": "d08e64e66521d69e083c8525f1fc507f1c202384",
+      "bytes": 553487,
       "serverCopy": true
     },
     {
-      "file": "mods/JadeAddons-1.20.1-Forge-5.5.0.jar",
-      "sha256": "3fa00b2ee33ee154ef155997fc7e12fb0e4d7f4f06d1bfd47dd6ee3c6a1549d4",
-      "sha1": "5e74e87f61cf05c18457f09dfa1cb70332b6b777",
-      "bytes": 91771,
+      "file": "mods/JadeAddons-1.20.1-Forge-5.5.1.jar",
+      "sha256": "faf39cd0326e5127004be0b0c96ba7d52fa40cf9c7f85854bd47e3ebfc402f4c",
+      "sha1": "c4339eb3ef0c4728cb511efe60726653a35c7a0d",
+      "bytes": 91754,
       "serverCopy": true
     },
     {
