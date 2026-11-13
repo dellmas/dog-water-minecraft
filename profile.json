@@ -1,12 +1,12 @@
 {
-  "version": "1.0.34",
+  "version": "1.0.35",
   "minecraft": "1.20.1",
   "forge": "47.4.0",
   "basePack": "ATM9",
   "basePackVersion": "1.1.1",
   "assetName": "Dog-Water-Minecraft.zip",
-  "bytes": 48822114,
-  "sha256": "8f3f47331f38bf826f2401113c441094648c884487797efb9bb8fb016f701443",
+  "bytes": 48822111,
+  "sha256": "8c1fa175c4f9f94407cb6a1fbb5014f2528c65702b2f07edca9d4402f028466c",
   "curseForgeManifestFiles": 372,
   "mods": 371,
   "graveSyncStatus": "Rhino callback crash corrected; installed client file requires client restart; in-game verification pending",
@@ -172,5 +172,12 @@
     "clientUpdateRequiredForServerSetting": false,
     "nativeRuntimeFlagVerified": true,
     "terrainChangedForTest": false
+  },
+  "jadeUpdate": {
+    "jade": "11.13.3",
+    "jadeAddons": "5.5.1",
+    "backupWorldLoadedAndSaved": true,
+    "clientStartupAndPluginsVerified": true,
+    "inWorldHudVerified": false
   }
 }
