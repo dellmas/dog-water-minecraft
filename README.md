@@ -40,7 +40,9 @@ The profile uses Minecraft **1.20.1**, Forge **47.4.0**, and ATM9 **1.1.1**, wit
 
 
 
-## Current profile 1.0.44
+## Current profile 1.0.45
+
+Butchercraft supports Twilight Forest boar and bighorn sheep. Deer have a new hanging model.
 
 The Twilight Deer Carcass has a new inventory icon.
 
