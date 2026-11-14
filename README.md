@@ -40,7 +40,9 @@ The profile uses Minecraft **1.20.1**, Forge **47.4.0**, and ATM9 **1.1.1**, wit
 
 
 
-## Current profile 1.0.41
+## Current profile 1.0.42
+
+Chop a lower log with an axe to fell the tree. Crouch for a single log.
 
 One player sleeping through the night in Lost Cities advances the shared clock to morning and clears storms when the weather cycle is enabled.
 
