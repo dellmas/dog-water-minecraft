@@ -1,6 +1,6 @@
 {
-  "version": "1.0.38",
-  "profileSha256": "481f13c910af27c2098dd2a6ad4c7fa8849bcf62da465f1ffc78f6d659e40f01",
+  "version": "1.0.39",
+  "profileSha256": "9e11aa9ea498fdec764a59ae27e60d3e54371c485c76e2c75db0d1a69726b50e",
   "repository": "https://github.com/dellmas/dog-water-minecraft",
   "personalFilesExcluded": [
     "automodpack/automodpack-client.json",
@@ -32,9 +32,9 @@
     },
     {
       "file": "DOG-WATER-START-HERE.txt",
-      "sha256": "ad68425ed65eaf62457d940fed8e32243a2dcc5daaf5ebf0c1a58763e516f99c",
-      "sha1": "8dbffceb79ed886dd78f631fb9de18f539cc8f1d",
-      "bytes": 8563,
+      "sha256": "e327f7d141a8d64460df6f81839396808c781084c6868a9ca389e485451d8147",
+      "sha1": "1f3b84ab870f88041992b71e6f6807283c819b51",
+      "bytes": 8696,
       "serverCopy": false
     },
     {
@@ -1747,8 +1747,8 @@
     },
     {
       "file": "dwd-profile-release.json",
-      "sha256": "0df5aa0b5519d6faf2c2c2a7a6e5d11e255f2168739d1a6426da5fde3f2d6e62",
-      "sha1": "030f55b304209d6b076af8bff6b8267e844ce37f",
+      "sha256": "f144145a95acfae44440f3e4096e532ac769facebd20f109f35e80e44ad43bc4",
+      "sha1": "588a78b14ddc2f8d6e8eda8e6803a3b18ff8a8cd",
       "bytes": 179,
       "serverCopy": false
     },
@@ -12593,6 +12593,13 @@
       "sha256": "482034afa7dda29d76fe940ebf472781035c57de42d020e0480b7a4495c679d4",
       "sha1": "45682c171ee52911f292ea0714d7989dd414b885",
       "bytes": 9097,
+      "serverCopy": true
+    },
+    {
+      "file": "mods/dwd-twilight-deer-1.0.0.jar",
+      "sha256": "a2f38a39cce328e64ecb7de4c3df204c5d1d22407a2b104a16d5bd91c74eda41",
+      "sha1": "dc731ea189111e316678294417229f36df120b8b",
+      "bytes": 11466,
       "serverCopy": true
     },
     {
