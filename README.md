@@ -40,9 +40,9 @@ The profile uses Minecraft **1.20.1**, Forge **47.4.0**, and ATM9 **1.1.1**, wit
 
 
 
-## Current profile 1.0.40
+## Current profile 1.0.41
 
-One player sleeping through the night in Lost Cities advances the shared world clock to morning.
+One player sleeping through the night in Lost Cities advances the shared clock to morning and clears storms when the weather cycle is enabled.
 
 Use the Butcher Knife on a Twilight Forest deer and process its carcass on the Meat Hook for 12 to 18 raw venison. Server activation follows its next startup.
 
