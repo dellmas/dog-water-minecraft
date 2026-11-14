@@ -1,6 +1,6 @@
 {
-  "version": "1.0.42",
-  "profileSha256": "71bffaa85c4408d3c902b494bc11b0a64b549cfd753c19097e4b54289eba3a89",
+  "version": "1.0.43",
+  "profileSha256": "a0fa41ea87e6a58de1c3ec7296c93a0cacff185533d9df69cd214625fd47108e",
   "repository": "https://github.com/dellmas/dog-water-minecraft",
   "personalFilesExcluded": [
     "automodpack/automodpack-client.json",
@@ -32,9 +32,9 @@
     },
     {
       "file": "DOG-WATER-START-HERE.txt",
-      "sha256": "9d92d982722cc7b8ad0de8f804d84d4e970253cf5773e300bfaef59348035443",
-      "sha1": "7789bcec7d690918302af094c76fa0a1281bfa08",
-      "bytes": 8920,
+      "sha256": "206fc980d71109f89dc4e1d7a101f2ff3281623f5ca82fcede0e75770bb3ff0b",
+      "sha1": "0e1999d7c528c4d4edf24f01e6933c9539821269",
+      "bytes": 8988,
       "serverCopy": false
     },
     {
@@ -361,9 +361,9 @@
     },
     {
       "file": "config/fallingtree.json",
-      "sha256": "14940cd6912f9a705e35670bf07b3b3239f1e0e859a123334cb67cb30eb7a677",
-      "sha1": "ea808b79ca5d5857737e0a63e81f2ec80721769d",
-      "bytes": 177,
+      "sha256": "18816a973ef11ba40cfd1464f018576e918b3848ed1fbc8cc67c41ae24aa6321",
+      "sha1": "8763e6d150fc06ffb6f4f5f6df87920be5ad05e9",
+      "bytes": 175,
       "serverCopy": false
     },
     {
@@ -1754,8 +1754,8 @@
     },
     {
       "file": "dwd-profile-release.json",
-      "sha256": "037ca3de48558d2465cf2f8ff9c49982b595cc4f422cf1bbc1b6ce8b0d8e986c",
-      "sha1": "0a1ccce9cbac534c85d0562cd45524219386aa13",
+      "sha256": "7828ac02bd052e4d8c9a2af8bdd72e553190667e6f9317b8463b90393c487c65",
+      "sha1": "45949d89264c5724b97f5627eb0e7265b22dc478",
       "bytes": 179,
       "serverCopy": false
     },
