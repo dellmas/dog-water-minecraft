@@ -1,12 +1,12 @@
 {
-  "version": "1.0.39",
+  "version": "1.0.40",
   "minecraft": "1.20.1",
   "forge": "47.4.0",
   "basePack": "ATM9",
   "basePackVersion": "1.1.1",
   "assetName": "Dog-Water-Minecraft.zip",
-  "bytes": 49234057,
-  "sha256": "9e11aa9ea498fdec764a59ae27e60d3e54371c485c76e2c75db0d1a69726b50e",
+  "bytes": 49234921,
+  "sha256": "84a07aef2b4003101fd27fb7a76d6e36311b1857a7acd18162fcee1f104299c8",
   "curseForgeManifestFiles": 375,
   "mods": 376,
   "graveSyncStatus": "Rhino callback crash corrected; installed client file requires client restart; in-game verification pending",
@@ -135,7 +135,7 @@
   "automaticUpdates": {
     "mod": "AutoModpack",
     "version": "4.0.7",
-    "managedFiles": 2413,
+    "managedFiles": 2414,
     "managedMods": 375,
     "sourceOfTruth": "published GitHub release",
     "transport": "server-hosted hash-verified mirror on TCP25566",
@@ -209,5 +209,14 @@
     "carcass": "dwd_twilight_deer:deer_carcass",
     "venisonMin": 12,
     "venisonMax": 18
+  },
+  "lostCitiesSleep": {
+    "dimension": "lostcities:lostcity",
+    "oneSleeper": true,
+    "usesSharedClock": true,
+    "appliedLive": true,
+    "serverRestartRequired": false,
+    "clientUpdateRequired": false,
+    "worldCopySleepTestPassed": true
   }
 }
