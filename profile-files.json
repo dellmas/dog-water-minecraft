@@ -1,6 +1,6 @@
 {
-  "version": "1.0.44",
-  "profileSha256": "ac3dd529d1f605a4ec6a8d94799d6b9c3ee52bccd4ef22130f39a71b8243ab1a",
+  "version": "1.0.45",
+  "profileSha256": "a667566751d73a63a22b291e830f68ef84c55bf3694ab8cf5518754dad9494c8",
   "repository": "https://github.com/dellmas/dog-water-minecraft",
   "personalFilesExcluded": [
     "automodpack/automodpack-client.json",
@@ -32,9 +32,9 @@
     },
     {
       "file": "DOG-WATER-START-HERE.txt",
-      "sha256": "af942ed2591165688150e89bdc2cb5195698a5e90e6a65422df93921d9075407",
-      "sha1": "b892fc78da69aa210cb15693137a886535ed2b09",
-      "bytes": 9041,
+      "sha256": "998e459bf3bcefb56bc1d65e36ac70066feb52448985533584bc0ec6c65b3028",
+      "sha1": "0485014d6d0fd6393b18e2cd64561bd4762907b1",
+      "bytes": 9135,
       "serverCopy": false
     },
     {
@@ -1754,8 +1754,8 @@
     },
     {
       "file": "dwd-profile-release.json",
-      "sha256": "6106ebc4e377273cf427386b77abc7ada204251a41dfd48669ca8d1f88d73517",
-      "sha1": "516a1404fc3f7aaa9f72bfa94ca9bc51845f725a",
+      "sha256": "2a22a16f52de002a1d2719bc1881d3af8122c23370393aa16014ba263edf3b6c",
+      "sha1": "7b681a1253c6735c59bb03b6b78d7ab648a1b12a",
       "bytes": 179,
       "serverCopy": false
     },
@@ -1774,10 +1774,108 @@
       "serverCopy": false
     },
     {
+      "file": "kubejs/assets/dwd_twilight_deer/models/block/deer_stage_0.json",
+      "sha256": "ff848feb437c29e3318d9445e7623b5ec542b878bfa03e28825d55e947127678",
+      "sha1": "b4d45b0906931637ef351c825e627329931e05a9",
+      "bytes": 18516,
+      "serverCopy": false
+    },
+    {
+      "file": "kubejs/assets/dwd_twilight_deer/models/block/deer_stage_1.json",
+      "sha256": "ff848feb437c29e3318d9445e7623b5ec542b878bfa03e28825d55e947127678",
+      "sha1": "b4d45b0906931637ef351c825e627329931e05a9",
+      "bytes": 18516,
+      "serverCopy": false
+    },
+    {
+      "file": "kubejs/assets/dwd_twilight_deer/models/block/deer_stage_2.json",
+      "sha256": "2aa6fc0dcc4aa2bba5f609de15b498997e47dd8fdf5adfb0456ed192499b4d57",
+      "sha1": "7f3a3d919802b3a3bc975ec8e798e91e39c3b3e4",
+      "bytes": 14086,
+      "serverCopy": false
+    },
+    {
+      "file": "kubejs/assets/dwd_twilight_deer/models/block/deer_stage_3.json",
+      "sha256": "08cfb75f9fb46dc9d46827b4a8d69a5ba35f04a7ca5c226f66ef3362444046ae",
+      "sha1": "d759677c3d2202c517eeaeb1f5aa659b54824b37",
+      "bytes": 12335,
+      "serverCopy": false
+    },
+    {
+      "file": "kubejs/assets/dwd_twilight_deer/models/block/deer_stage_4.json",
+      "sha256": "eaa8d26a38307acbdfd53084b9bc8f135cf3403e782e02402fda59495741c12b",
+      "sha1": "d99821cb96be3a35256c61b4470a2d086c8705b6",
+      "bytes": 11811,
+      "serverCopy": false
+    },
+    {
       "file": "kubejs/assets/dwd_twilight_deer/models/item/deer_carcass.json",
       "sha256": "61f2d8c2557acc9c9dd9df58ed18c7a64557ed55c92d28fa19f403a8461fb795",
       "sha1": "a32b4420bbd0899fcf1d2d736380269613ff9630",
       "bytes": 127,
+      "serverCopy": false
+    },
+    {
+      "file": "kubejs/assets/dwd_twilight_deer/textures/block/hanging_deer/bone.png",
+      "sha256": "b683088f6a7b0af7a545cf8d7fe65b3a91b988c307afaa8fe5c7038117b44cf2",
+      "sha1": "d2c7cec6215b354c990ed77e5ac0d07b119fd126",
+      "bytes": 288,
+      "serverCopy": false
+    },
+    {
+      "file": "kubejs/assets/dwd_twilight_deer/textures/block/hanging_deer/coat.png",
+      "sha256": "960a773e86392b86fc3f5fe7ee0093a2e4eed6b694fe7932544006847d79b6c9",
+      "sha1": "ed45f622fec4d3fef7ba81503ddb4aa8f5c2c7a7",
+      "bytes": 285,
+      "serverCopy": false
+    },
+    {
+      "file": "kubejs/assets/dwd_twilight_deer/textures/block/hanging_deer/cream.png",
+      "sha256": "bd3af22db6e1c2af9b25957399bd21f68e5119845c010cf8da294b31398b4ddd",
+      "sha1": "43f2ce7dfa30b408c6f82128eb99c6b407e022f7",
+      "bytes": 290,
+      "serverCopy": false
+    },
+    {
+      "file": "kubejs/assets/dwd_twilight_deer/textures/block/hanging_deer/face.png",
+      "sha256": "ed189515a0647465639748650b8a615839377df07b0508f92dd127cf96c44be3",
+      "sha1": "37b5139710103fa8d5721560e81b0a52e333dc65",
+      "bytes": 329,
+      "serverCopy": false
+    },
+    {
+      "file": "kubejs/assets/dwd_twilight_deer/textures/block/hanging_deer/flank.png",
+      "sha256": "13304954c65c55e12a9bcd888e488fbfae6bce3fb577f263f9f330239b30c70d",
+      "sha1": "2a7de1ae1f92771d089d85db32174dcfa5544190",
+      "bytes": 288,
+      "serverCopy": false
+    },
+    {
+      "file": "kubejs/assets/dwd_twilight_deer/textures/block/hanging_deer/hoof.png",
+      "sha256": "a0e9748aca327c16b252777b58a1a9a71a3672eb8a0c2a1e97f71d40bc798310",
+      "sha1": "3310bbc8d68c66b13c96be9aef1ea4656ace6e42",
+      "bytes": 290,
+      "serverCopy": false
+    },
+    {
+      "file": "kubejs/assets/dwd_twilight_deer/textures/block/hanging_deer/inner_ear.png",
+      "sha256": "4490a63b31afa2ff4c926d818de2d00498d181e1d3f32d3a0ca30b4be8e6c290",
+      "sha1": "269e9c0de971acbcb36136b743a37dda523dd5e8",
+      "bytes": 295,
+      "serverCopy": false
+    },
+    {
+      "file": "kubejs/assets/dwd_twilight_deer/textures/block/hanging_deer/iron.png",
+      "sha256": "4783e2f550d5780abd6372af87d0e65815358451d0edf47e93066d75d0c4045a",
+      "sha1": "00dcd393a3e49f53d64fdb0143c94e893e648442",
+      "bytes": 292,
+      "serverCopy": false
+    },
+    {
+      "file": "kubejs/assets/dwd_twilight_deer/textures/block/hanging_deer/meat.png",
+      "sha256": "849f1192211bba0f1895b65a36c180fc7ea0ab646d054eb1ef01b93a3fa0e9a4",
+      "sha1": "b93041fa55e906890e9d79457b1e7220016bb21f",
+      "bytes": 290,
       "serverCopy": false
     },
     {
@@ -2772,6 +2870,27 @@
       "sha256": "e5061807df3835f51b5e839268a6cc1358f0156e9c2734438cf2c908fee86d22",
       "sha1": "5146af5940402a9c10beccb732031df2f30f47b3",
       "bytes": 394,
+      "serverCopy": false
+    },
+    {
+      "file": "kubejs/data/butchercraft/loot_tables/butcher_knife/bighorn_sheep.json",
+      "sha256": "02e10b36e9fc3845559ec72d2c62e2c4c2b7785e14ad0312393730d5a9194187",
+      "sha1": "09a9f0dc0bfbaf9ceff4cad7a8c9f5ec185493fc",
+      "bytes": 291,
+      "serverCopy": false
+    },
+    {
+      "file": "kubejs/data/butchercraft/loot_tables/butcher_knife/boar.json",
+      "sha256": "40081885f486cc7a8985b411065cb429658a5c0337a68f211f7f8d152c352a4e",
+      "sha1": "a4716cf495a36c9380e7e8aec40aa8ad2dda471e",
+      "bytes": 280,
+      "serverCopy": false
+    },
+    {
+      "file": "kubejs/data/butchercraft/tags/entity_types/butcher_knife_animals.json",
+      "sha256": "2c20fbf79f9f43cafe301af9bc325c692f59a38bce0fc7602132fdbfda2909fa",
+      "sha1": "3ea3b86e9be1e4969d77ceb90ceeef43e9b0e08e",
+      "bytes": 111,
       "serverCopy": false
     },
     {
