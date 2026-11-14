@@ -1,12 +1,12 @@
 {
-  "version": "1.0.40",
+  "version": "1.0.41",
   "minecraft": "1.20.1",
   "forge": "47.4.0",
   "basePack": "ATM9",
   "basePackVersion": "1.1.1",
   "assetName": "Dog-Water-Minecraft.zip",
-  "bytes": 49234921,
-  "sha256": "84a07aef2b4003101fd27fb7a76d6e36311b1857a7acd18162fcee1f104299c8",
+  "bytes": 49235078,
+  "sha256": "67c1a840041f2dcaeaad57f6d0ee11d63099d9e342b83d21a12d6fca57742d1d",
   "curseForgeManifestFiles": 375,
   "mods": 376,
   "graveSyncStatus": "Rhino callback crash corrected; installed client file requires client restart; in-game verification pending",
@@ -217,6 +217,8 @@
     "appliedLive": true,
     "serverRestartRequired": false,
     "clientUpdateRequired": false,
-    "worldCopySleepTestPassed": true
+    "worldCopySleepTestPassed": true,
+    "weatherClearsAfterSleep": true,
+    "weatherCycleRuleRespected": true
   }
 }
