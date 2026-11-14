@@ -1,6 +1,6 @@
 {
-  "version": "1.0.43",
-  "profileSha256": "a0fa41ea87e6a58de1c3ec7296c93a0cacff185533d9df69cd214625fd47108e",
+  "version": "1.0.44",
+  "profileSha256": "ac3dd529d1f605a4ec6a8d94799d6b9c3ee52bccd4ef22130f39a71b8243ab1a",
   "repository": "https://github.com/dellmas/dog-water-minecraft",
   "personalFilesExcluded": [
     "automodpack/automodpack-client.json",
@@ -32,9 +32,9 @@
     },
     {
       "file": "DOG-WATER-START-HERE.txt",
-      "sha256": "206fc980d71109f89dc4e1d7a101f2ff3281623f5ca82fcede0e75770bb3ff0b",
-      "sha1": "0e1999d7c528c4d4edf24f01e6933c9539821269",
-      "bytes": 8988,
+      "sha256": "af942ed2591165688150e89bdc2cb5195698a5e90e6a65422df93921d9075407",
+      "sha1": "b892fc78da69aa210cb15693137a886535ed2b09",
+      "bytes": 9041,
       "serverCopy": false
     },
     {
@@ -1754,8 +1754,8 @@
     },
     {
       "file": "dwd-profile-release.json",
-      "sha256": "7828ac02bd052e4d8c9a2af8bdd72e553190667e6f9317b8463b90393c487c65",
-      "sha1": "45949d89264c5724b97f5627eb0e7265b22dc478",
+      "sha256": "6106ebc4e377273cf427386b77abc7ada204251a41dfd48669ca8d1f88d73517",
+      "sha1": "516a1404fc3f7aaa9f72bfa94ca9bc51845f725a",
       "bytes": 179,
       "serverCopy": false
     },
@@ -1771,6 +1771,20 @@
       "sha256": "050df4dac58ebda30a898e6c65e91cc4f4e15bcd7c2a19b58ab1c05082e36556",
       "sha1": "c0701ed96ab5b51473e918ee67ce61f5875f5b15",
       "bytes": 1217,
+      "serverCopy": false
+    },
+    {
+      "file": "kubejs/assets/dwd_twilight_deer/models/item/deer_carcass.json",
+      "sha256": "61f2d8c2557acc9c9dd9df58ed18c7a64557ed55c92d28fa19f403a8461fb795",
+      "sha1": "a32b4420bbd0899fcf1d2d736380269613ff9630",
+      "bytes": 127,
+      "serverCopy": false
+    },
+    {
+      "file": "kubejs/assets/dwd_twilight_deer/textures/item/deer_carcass_icon.png",
+      "sha256": "a9e26f8a7f41811acbf8862327aafdc313ea8089df4ac97f815343a78afd7c53",
+      "sha1": "7b7a222e2b938cc87f10d4823c4c331d39c2453f",
+      "bytes": 429,
       "serverCopy": false
     },
     {
