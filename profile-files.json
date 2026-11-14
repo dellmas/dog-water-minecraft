@@ -1,6 +1,6 @@
 {
-  "version": "1.0.37",
-  "profileSha256": "11c1fec4010871072547b8254dc68a81e0e4f013144ce0ceb8cab955800ccecc",
+  "version": "1.0.38",
+  "profileSha256": "481f13c910af27c2098dd2a6ad4c7fa8849bcf62da465f1ffc78f6d659e40f01",
   "repository": "https://github.com/dellmas/dog-water-minecraft",
   "personalFilesExcluded": [
     "automodpack/automodpack-client.json",
@@ -32,9 +32,9 @@
     },
     {
       "file": "DOG-WATER-START-HERE.txt",
-      "sha256": "5aa5c6e9b63e8042a9e8285da9555cf2a817aa8280bb3d9465824dd686af07dd",
-      "sha1": "d65fa40bfcd0cc9335f52d9a681b58a6e27f46ed",
-      "bytes": 8464,
+      "sha256": "ad68425ed65eaf62457d940fed8e32243a2dcc5daaf5ebf0c1a58763e516f99c",
+      "sha1": "8dbffceb79ed886dd78f631fb9de18f539cc8f1d",
+      "bytes": 8563,
       "serverCopy": false
     },
     {
@@ -1747,8 +1747,8 @@
     },
     {
       "file": "dwd-profile-release.json",
-      "sha256": "105e676a7101270b309f9028a52c40774bd64cae192e53dcad876d03303524a6",
-      "sha1": "401047b57ec8106aeb4ae6ad2e9d12fb249cfe01",
+      "sha256": "0df5aa0b5519d6faf2c2c2a7a6e5d11e255f2168739d1a6426da5fde3f2d6e62",
+      "sha1": "030f55b304209d6b076af8bff6b8267e844ce37f",
       "bytes": 179,
       "serverCopy": false
     },
@@ -12586,6 +12586,13 @@
       "sha256": "663c99d50e0c509381baf49e6f2e1e46604f27bfe934fbf329b3180cc07e7bb8",
       "sha1": "d7233ec8f3718db64a673b1f2eed4a21a847a8a6",
       "bytes": 20466,
+      "serverCopy": true
+    },
+    {
+      "file": "mods/dwd-city-nether-portals-1.0.0.jar",
+      "sha256": "482034afa7dda29d76fe940ebf472781035c57de42d020e0480b7a4495c679d4",
+      "sha1": "45682c171ee52911f292ea0714d7989dd414b885",
+      "bytes": 9097,
       "serverCopy": true
     },
     {
