@@ -40,7 +40,9 @@ The profile uses Minecraft **1.20.1**, Forge **47.4.0**, and ATM9 **1.1.1**, wit
 
 
 
-## Current profile 1.0.43
+## Current profile 1.0.44
+
+The Twilight Deer Carcass has a new inventory icon.
 
 Chop a lower log with an axe to fell the tree. Crouch for a single log. The scan follows branches that dip above the height of the cut.
 
