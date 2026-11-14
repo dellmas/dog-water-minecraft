@@ -1,6 +1,6 @@
 {
-  "version": "1.0.41",
-  "profileSha256": "67c1a840041f2dcaeaad57f6d0ee11d63099d9e342b83d21a12d6fca57742d1d",
+  "version": "1.0.42",
+  "profileSha256": "71bffaa85c4408d3c902b494bc11b0a64b549cfd753c19097e4b54289eba3a89",
   "repository": "https://github.com/dellmas/dog-water-minecraft",
   "personalFilesExcluded": [
     "automodpack/automodpack-client.json",
@@ -32,9 +32,9 @@
     },
     {
       "file": "DOG-WATER-START-HERE.txt",
-      "sha256": "8bb66e7d64024e90d9af6f4139606426f07922bc2f0b97a393387cb1deaa2904",
-      "sha1": "2de99e92319e2014971c72261388f91d4feef12c",
-      "bytes": 8847,
+      "sha256": "9d92d982722cc7b8ad0de8f804d84d4e970253cf5773e300bfaef59348035443",
+      "sha1": "7789bcec7d690918302af094c76fa0a1281bfa08",
+      "bytes": 8920,
       "serverCopy": false
     },
     {
@@ -357,6 +357,13 @@
       "sha256": "43a5c0aba3a38c13257cd34ce0f90a6096ff495f3f0747e2a637968c26c0354f",
       "sha1": "02bf770a889088b455af5bf0653ca917633f14f2",
       "bytes": 4445,
+      "serverCopy": false
+    },
+    {
+      "file": "config/fallingtree.json",
+      "sha256": "14940cd6912f9a705e35670bf07b3b3239f1e0e859a123334cb67cb30eb7a677",
+      "sha1": "ea808b79ca5d5857737e0a63e81f2ec80721769d",
+      "bytes": 177,
       "serverCopy": false
     },
     {
@@ -1747,8 +1754,8 @@
     },
     {
       "file": "dwd-profile-release.json",
-      "sha256": "b90062fb557b276c66d07e7bff771b377826b7293afd8ad9f9bdab98a072015d",
-      "sha1": "9f3af6e178a2580651fda38fe582e164bca75032",
+      "sha256": "037ca3de48558d2465cf2f8ff9c49982b595cc4f422cf1bbc1b6ce8b0d8e986c",
+      "sha1": "0a1ccce9cbac534c85d0562cd45524219386aa13",
       "bytes": 179,
       "serverCopy": false
     },
@@ -11480,6 +11487,13 @@
       "sha256": "92268ab47dc2011425009bf0ca4785962076bb5e3a61f55f04acd1076bed91e3",
       "sha1": "1c7a54e1727f2ae4b1f18e1d7feb94a38e87d00f",
       "bytes": 267731,
+      "serverCopy": true
+    },
+    {
+      "file": "mods/FallingTree-1.20.1-4.3.6.jar",
+      "sha256": "3ecc00200276cf5f57e991232292c23c242f3bf32186ef7c7aa5df89d81677a7",
+      "sha1": "0d02a649a1a7713ae5d88a4408e3f389d40a6031",
+      "bytes": 401913,
       "serverCopy": true
     },
     {
