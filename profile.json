@@ -1,12 +1,12 @@
 {
-  "version": "1.0.44",
+  "version": "1.0.45",
   "minecraft": "1.20.1",
   "forge": "47.4.0",
   "basePack": "ATM9",
   "basePackVersion": "1.1.1",
   "assetName": "Dog-Water-Minecraft.zip",
-  "bytes": 49236551,
-  "sha256": "ac3dd529d1f605a4ec6a8d94799d6b9c3ee52bccd4ef22130f39a71b8243ab1a",
+  "bytes": 49248129,
+  "sha256": "a667566751d73a63a22b291e830f68ef84c55bf3694ab8cf5518754dad9494c8",
   "curseForgeManifestFiles": 376,
   "mods": 377,
   "graveSyncStatus": "Rhino callback crash corrected; installed client file requires client restart; in-game verification pending",
@@ -135,7 +135,7 @@
   "automaticUpdates": {
     "mod": "AutoModpack",
     "version": "4.0.7",
-    "managedFiles": 2418,
+    "managedFiles": 2435,
     "managedMods": 376,
     "sourceOfTruth": "published GitHub release",
     "transport": "server-hosted hash-verified mirror on TCP25566",
@@ -209,7 +209,10 @@
     "carcass": "dwd_twilight_deer:deer_carcass",
     "venisonMin": 12,
     "venisonMax": 18,
-    "inventoryIcon": "Hand-drawn 24-pixel deer sprite through KubeJS client resources"
+    "inventoryIcon": "Hand-drawn 24-pixel deer sprite through KubeJS client resources",
+    "hangingModelStages": 5,
+    "boarCarcass": "butchercraft:pig_carcass",
+    "bighornSheepCarcass": "butchercraft:sheep_carcass"
   },
   "lostCitiesSleep": {
     "dimension": "lostcities:lostcity",
