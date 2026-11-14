@@ -40,7 +40,9 @@ The profile uses Minecraft **1.20.1**, Forge **47.4.0**, and ATM9 **1.1.1**, wit
 
 
 
-## Current profile 1.0.38
+## Current profile 1.0.39
+
+Use the Butcher Knife on a Twilight Forest deer and process its carcass on the Meat Hook for 12 to 18 raw venison. Server activation follows its next startup.
 
 Light a standard obsidian Nether portal in Lost Cities. Use the same Nether portal to return to Lost Cities. Server activation follows its next startup.
 
