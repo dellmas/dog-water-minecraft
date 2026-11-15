@@ -1,6 +1,6 @@
 {
-  "version": "1.0.45",
-  "profileSha256": "a667566751d73a63a22b291e830f68ef84c55bf3694ab8cf5518754dad9494c8",
+  "version": "1.0.46",
+  "profileSha256": "58ad7ade6b5ec9267186a74c348ef70e8db4e84f4fa1b21286118dabe746e0a3",
   "repository": "https://github.com/dellmas/dog-water-minecraft",
   "personalFilesExcluded": [
     "automodpack/automodpack-client.json",
@@ -32,9 +32,9 @@
     },
     {
       "file": "DOG-WATER-START-HERE.txt",
-      "sha256": "998e459bf3bcefb56bc1d65e36ac70066feb52448985533584bc0ec6c65b3028",
-      "sha1": "0485014d6d0fd6393b18e2cd64561bd4762907b1",
-      "bytes": 9135,
+      "sha256": "5493cb1703887a8392216525881fb761184d66e50642fb4adbb664000bce4732",
+      "sha1": "f629198c5c2436a73af373a4780f73cd24514e76",
+      "bytes": 9299,
       "serverCopy": false
     },
     {
@@ -242,9 +242,9 @@
     },
     {
       "file": "config/crash_assistant/modlist.json",
-      "sha256": "5d53e7e5410c23693b9d03e41184611d72d7bbf1ae89c6c34d27f665d973f994",
-      "sha1": "8afa5ad2a5c504d5175a17a404d569642fcd5ee8",
-      "bytes": 66093,
+      "sha256": "ed458f67d9f090a02b7f2df0c15aefd61314c2edc03cdfede6fc05a6972c1ee3",
+      "sha1": "4eac6837d13759cc9ea75e72ef763b5bfeba9ddc",
+      "bytes": 64575,
       "serverCopy": false
     },
     {
@@ -501,9 +501,9 @@
     },
     {
       "file": "config/ftbquests/quests/chapters/chapter_2.snbt",
-      "sha256": "e33bba4c6faf289c78d25b3a75bc454d13d3155953569bac4ff03e1548ce936c",
-      "sha1": "57f9afe01900d5e5da6020104507d8a80f931c42",
-      "bytes": 58205,
+      "sha256": "8fe0ebae3dc1f07a37c608c4009765c4be3292b00409aedc32a58ce667bc2c1f",
+      "sha1": "0601a03af5a78cc0584095244a52a5fd2494dae9",
+      "bytes": 57938,
       "serverCopy": false
     },
     {
@@ -616,13 +616,6 @@
       "sha256": "e1333c9d0c9cdd869682c6a9ed68b1dfd0138b98445c6f895a230a7851dc1e0d",
       "sha1": "d50dd0d052515a436e76404a115abc13110efe04",
       "bytes": 7512,
-      "serverCopy": false
-    },
-    {
-      "file": "config/ftbquests/quests/chapters/refined_storage.snbt",
-      "sha256": "c304e1f4db49e888264a83e3c7b2c517d17aff26b4fe875dc5588d6d166427cf",
-      "sha1": "0c31e0b09a9f2477a684284db9442323c76b7c77",
-      "bytes": 37686,
       "serverCopy": false
     },
     {
@@ -885,34 +878,6 @@
       "serverCopy": false
     },
     {
-      "file": "config/ftbquests/quests/reward_tables/refined_storage_base_materials.snbt",
-      "sha256": "97573819195f184c29d92d404205dfedf8fb8a68863094325176a05f47464c62",
-      "sha1": "e3c25577ba1e931ac9c84893fee6032076e29fed",
-      "bytes": 252,
-      "serverCopy": false
-    },
-    {
-      "file": "config/ftbquests/quests/reward_tables/refined_storage_parts.snbt",
-      "sha256": "ddcd6d67de49e1afca7fed9e97b3674e1aaf4d73d1fe767d98499adeb9ac3913",
-      "sha1": "c085550143e0fff66bedc7730bd9d0fdc96c30f2",
-      "bytes": 362,
-      "serverCopy": false
-    },
-    {
-      "file": "config/ftbquests/quests/reward_tables/rs_advanced_parts.snbt",
-      "sha256": "798b95a3a6c114255f45fa638f76654477d5261724ec15cab8b8187eeafac5c2",
-      "sha1": "44ba5fdda57496d3e5044b2b22f4da3549089821",
-      "bytes": 283,
-      "serverCopy": false
-    },
-    {
-      "file": "config/ftbquests/quests/reward_tables/rs_random_storage_parts.snbt",
-      "sha256": "218e1b92e233bcb454661908d72e711171d7acf7a5dc997add51d8da4ce5a548",
-      "sha1": "6bb7625c5a42a28df9d25c8ee18b2e02a821a431",
-      "bytes": 368,
-      "serverCopy": false
-    },
-    {
       "file": "config/ftbquests/quests/reward_tables/twilight_forest_loot_bag.snbt",
       "sha256": "801dc9e7eae5f75e2bb9ee45bc7e8621d17f5a6e59cb06ae642f64a36ddebecc",
       "sha1": "73247a0aeaec2b241e04b9eefb306e8d4c29854d",
@@ -1148,13 +1113,6 @@
       "sha256": "34121ee19cd259a0e12b2153f391751c16ff9627f6d69016a8ad67c9e05ab7bc",
       "sha1": "eb342baf7c0c6e56e7a93143b1966f2af3c232eb",
       "bytes": 5388,
-      "serverCopy": false
-    },
-    {
-      "file": "config/inventoryprofilesnext/integrationHints/refinedstorage.json",
-      "sha256": "fd60c40d411884d22a9dc875c9a419fb53a66348d7f545200c37e5467dc31c78",
-      "sha1": "de4b3fdd2cee993f95f6e50e3a9612ce9e9ec2e0",
-      "bytes": 5134,
       "serverCopy": false
     },
     {
@@ -1754,8 +1712,8 @@
     },
     {
       "file": "dwd-profile-release.json",
-      "sha256": "2a22a16f52de002a1d2719bc1881d3af8122c23370393aa16014ba263edf3b6c",
-      "sha1": "7b681a1253c6735c59bb03b6b78d7ab648a1b12a",
+      "sha256": "f125a1b9375d13bbc2607751d88213bf938cf7edc1e88056fff256f17edb3658",
+      "sha1": "35beb0a7468c978716590f5bc7bfb1bfa4c45f2e",
       "bytes": 179,
       "serverCopy": false
     },
@@ -2433,9 +2391,9 @@
     },
     {
       "file": "kubejs/client_scripts/jei_hide.js",
-      "sha256": "7932dba82708a97d1a0f1b49402e24ae182f12b7b383d8603ef298fa640703bd",
-      "sha1": "5a8d0f29bd02a0d6c433355eeb9fc261997f2a58",
-      "bytes": 2015,
+      "sha256": "5fc7716f31efb2173810c1a0f4829a410efc6eb77f4a1814bb6fc2650619c35b",
+      "sha1": "005860d22c6c50d59fa66d0376b09b0997ca6922",
+      "bytes": 1407,
       "serverCopy": false
     },
     {
@@ -2447,9 +2405,9 @@
     },
     {
       "file": "kubejs/client_scripts/load_model_fix.js",
-      "sha256": "c9f271595d22d035a6a13bb7d25e9298c8f37220b240be0932163f51894405f5",
-      "sha1": "2ef1cb0bb0770ec8d5c8665f7d22e3d17b9dc4fc",
-      "bytes": 2276,
+      "sha256": "93b9e97e18913fb38092f9f95496ac119b9ab155e99b4f8f55f861a8700fa3e0",
+      "sha1": "af63358acbba7a2521e1fbd3ea4928316eb69911",
+      "bytes": 2191,
       "serverCopy": false
     },
     {
@@ -2545,9 +2503,9 @@
     },
     {
       "file": "kubejs/client_scripts/tooltips.js",
-      "sha256": "b59be9cf5691bc7da23957bcf934713d3ff42eeebf2a470a2465fb710731415a",
-      "sha1": "540c46bead246a42d2e958dc14003f469bd83f5f",
-      "bytes": 6218,
+      "sha256": "2dd5d9d1463e237fd9c36d9a2be583fbd626700516e6aed6931c4757cb6efbca",
+      "sha1": "19966b5abf4d428405a642c69570d2aff9fd1127",
+      "bytes": 5648,
       "serverCopy": false
     },
     {
@@ -10735,9 +10693,9 @@
     },
     {
       "file": "kubejs/server_scripts/conflicts.js",
-      "sha256": "f28dca2fdcd90381a752a29f56c775f1819831dd728470818b5fef1e9f451ddb",
-      "sha1": "50d0b775fdd89a2de97b3ec68ffd8c1ddee34075",
-      "bytes": 9895,
+      "sha256": "a464eaa107b2d61acddb39a0dcf4c10a76e366e6c943753575d3facf1bf3999d",
+      "sha1": "f520e11e4884b6ef0ef16badf607374547e4cdc3",
+      "bytes": 5488,
       "serverCopy": false
     },
     {
@@ -10812,16 +10770,16 @@
     },
     {
       "file": "kubejs/server_scripts/modpack/atm_star_creative.js",
-      "sha256": "1b84a02cba3347f395287a26c24c5254fb27f46ee10b5196b680f5cea16b0f8b",
-      "sha1": "eea9e0d886e9f9f94e877aa98b1b0153c6f04ba6",
-      "bytes": 10965,
+      "sha256": "2b533f434d1b5212f2b9d94c4d9a22d4e7f277c721be18c93d04e40dcc41bce2",
+      "sha1": "1a0d3f73979b50b8b4a3d8cbc9e1115f78f19559",
+      "bytes": 8643,
       "serverCopy": false
     },
     {
       "file": "kubejs/server_scripts/modpack/att_items.js",
-      "sha256": "aad0569c1126b32d3fa8344457dcfc429833b992ba238c48e6da692e76da64e1",
-      "sha1": "e4f8fbeb4e9c314ed66d28afdb49c8b646b023cb",
-      "bytes": 5574,
+      "sha256": "67629c3204f634382723b0fa9f5bee736fc10182afa39fac461c9fb83586ca75",
+      "sha1": "2097a8e1b2ac2a60df8c2e961e48f84f1c6ae6b5",
+      "bytes": 5507,
       "serverCopy": false
     },
     {
@@ -11105,13 +11063,6 @@
       "serverCopy": false
     },
     {
-      "file": "kubejs/server_scripts/mods/refined/recipes.js",
-      "sha256": "ebc08ab83585da9c55c6d791a5ef07e156c29f6af20dc813f653b660039dde3b",
-      "sha1": "956a072df116537225ee974f9afe2a3ca334addd",
-      "bytes": 1492,
-      "serverCopy": false
-    },
-    {
       "file": "kubejs/server_scripts/mods/reliquary/reliquary.js",
       "sha256": "cf3b6c3ef0391bc3700faf7a9cfc9c94eb2185d72cb5ce9a8dd9b8a26baef1e6",
       "sha1": "49a80e455e20a60493a514e519879cbdb28ab6b8",
@@ -11232,9 +11183,9 @@
     },
     {
       "file": "kubejs/server_scripts/tags.js",
-      "sha256": "5be562a691a34410564da18d6cab42f53c533452484918379666cd8da885a00a",
-      "sha1": "a4ec9970f24c76d6a795e205ada42b7ef9963bd0",
-      "bytes": 5637,
+      "sha256": "d90ffda3d17079fd57ee41632c8d4103f7251021e34c47ff0dc4a54e508bc2f9",
+      "sha1": "a52ff2097ce73fdc5566a59bea3beffb69b51b43",
+      "bytes": 5603,
       "serverCopy": false
     },
     {
@@ -11595,20 +11546,6 @@
       "serverCopy": true
     },
     {
-      "file": "mods/ExtraDisks-1.20.1-3.0.3.jar",
-      "sha256": "408ac230f5aedfedf8c06875ee8e8d92df50b476340fd8d8bb1eae24c169d419",
-      "sha1": "51f3fcd4f8e340bb3ee773f8bb50f42a1d58f248",
-      "bytes": 240420,
-      "serverCopy": true
-    },
-    {
-      "file": "mods/ExtraStorage-1.20.1-4.0.7.jar",
-      "sha256": "ed7b2b0fedd7c2c2c060af4a870ba73d34e586b7bde213501b2c86f7c947b672",
-      "sha1": "ba1f5826f8f5d0772c9adf46fbe93befcdd5796a",
-      "bytes": 370532,
-      "serverCopy": true
-    },
-    {
       "file": "mods/ExtremeReactors2-1.20.1-2.0.94.jar",
       "sha256": "ae20a95ce161c75e2d552bc95fbc8f4e61218f39edf45603fc8679405a98e123",
       "sha1": "0a79ea6b39ead2e65a8867161a3bcbd085808e20",
@@ -11921,13 +11858,6 @@
       "sha256": "c90b96f049d92825c4a103721988c80d72e5ad380d17be46a0f53e114874c478",
       "sha1": "9b0fb82995622a0070c00827c698c43b49d9d14b",
       "bytes": 14935230,
-      "serverCopy": true
-    },
-    {
-      "file": "mods/RSInfinityBooster-1.20.1-1.0+39.jar",
-      "sha256": "4575dec1c18b852eee484454d32c8975c3788ff4337312faec3f0a94afdc6e47",
-      "sha1": "df7f28d82e572f8fd5e5bf61a9920e7390a03b68",
-      "bytes": 29818,
       "serverCopy": true
     },
     {
@@ -12440,13 +12370,6 @@
       "sha1": "fb22bf4c7293cd1791f172918ae81863ed1e81dd",
       "bytes": 28225,
       "serverCopy": false
-    },
-    {
-      "file": "mods/cabletiers-1.20.1-1.2.2.jar",
-      "sha256": "0dae7adef1ba46acfcbe3c3dfd39d8ca7141e901d08cb53257c4bef0a53e5e8a",
-      "sha1": "83da147d635e3adbbcd59a24e4c4de9bbdf9830e",
-      "bytes": 298768,
-      "serverCopy": true
     },
     {
       "file": "mods/caelus-forge-3.2.0+1.20.1.jar",
@@ -13583,13 +13506,6 @@
       "serverCopy": true
     },
     {
-      "file": "mods/rebornstorage-1.20.1-5.0.7.jar",
-      "sha256": "9c3b3b75b2edf249577eb19ebfcc7e96be682684d401438a25a97cc695fe6f83",
-      "sha1": "51d8387240b7c2ebca45937126cdaa0c3d682e17",
-      "bytes": 273551,
-      "serverCopy": true
-    },
-    {
       "file": "mods/rechiseled-1.1.6-forge-mc1.20.jar",
       "sha256": "5ef5676653a1f15af86841d55f1963e1fc9066cbb87e59d82569467f086425eb",
       "sha1": "cacec8ace7987d33e76873bf574704aea7564a4e",
@@ -13608,27 +13524,6 @@
       "sha256": "bf44e5c1a5a2a03db62b1820d573c09839019f85d90d279e92da6600be7d6b32",
       "sha1": "8d008954747ad6633b85f3ccfa0523807a400e8b",
       "bytes": 489748,
-      "serverCopy": true
-    },
-    {
-      "file": "mods/refinedpolymorph-0.1.1-1.20.1.jar",
-      "sha256": "39e4312a999aa686f3c91095dce424538708764be6d108634cf658647620f826",
-      "sha1": "6268974fcb84a01d52b70a78232c2bd6f2a450f8",
-      "bytes": 25272,
-      "serverCopy": true
-    },
-    {
-      "file": "mods/refinedstorage-1.12.4.jar",
-      "sha256": "d8ae3926c2121336efcd6956c43d91f21ce405b77ac7c7201c559d4c19f380d2",
-      "sha1": "ff9e83c81344d0bfe9e0bb53c6df00c7e0a39cf5",
-      "bytes": 3300191,
-      "serverCopy": true
-    },
-    {
-      "file": "mods/refinedstorageaddons-0.10.0.jar",
-      "sha256": "8371fe7932e88e3dd06401fd921a6ab2c52913287bd8994b096e47655c664491",
-      "sha1": "829c7270a3fad543e441a18b5b9f27fd30824086",
-      "bytes": 33771,
       "serverCopy": true
     },
     {
@@ -13672,20 +13567,6 @@
       "sha1": "abf5fb17ef2056154bc282a801869742f9be0eb2",
       "bytes": 97259,
       "serverCopy": false
-    },
-    {
-      "file": "mods/rsinsertexportupgrade-1.20.1-1.4.0.jar",
-      "sha256": "36072a05476d258d1612a9d75144af0b839cca7e752a5bbc39eed7e8bdddf613",
-      "sha1": "0aab43f4baba08f36a2705fd2d9fefda65474306",
-      "bytes": 66932,
-      "serverCopy": true
-    },
-    {
-      "file": "mods/rsrequestify-1.20.1-2.3.3.jar",
-      "sha256": "dbf2c11fa5ae9c274c114e14435f015584a8545b77f8d7af739164f66d3601ab",
-      "sha1": "37366658f7e22f061f9adae8675f518512d15858",
-      "bytes": 62933,
-      "serverCopy": true
     },
     {
       "file": "mods/shetiphiancore-forge-1.20.1-1.5.jar",
@@ -13863,6 +13744,13 @@
       "serverCopy": true
     },
     {
+      "file": "mods/toms_storage-1.20-1.7.1.jar",
+      "sha256": "08552be86f960111e501227707dc089c91b8a55f6c1be09baee188338576ff9b",
+      "sha1": "8b70aed9e35ad78fdc2f9fcb94a29dc64ba8d757",
+      "bytes": 520148,
+      "serverCopy": true
+    },
+    {
       "file": "mods/torchmaster-20.1.9.jar",
       "sha256": "7c8984a2dc11c29147d0677958e9146a18578068bc00fbfcb1cddbaa60557682",
       "sha1": "9a7f4ffdfe0dfe0a8071ac6501e52b1b4e208758",
@@ -13902,13 +13790,6 @@
       "sha256": "0bdc89263616d1b35c32ef82c5e9c14cbd20368e2fe8b468c72a28320be7a778",
       "sha1": "fa3b506a45d3e9c465551cd533fd50c899496e9f",
       "bytes": 23332091,
-      "serverCopy": true
-    },
-    {
-      "file": "mods/universalgrid-1.20.1-1.1.jar",
-      "sha256": "9b6dfd963c07b8bd83770e58c63f3a7c5ca1367a5bd424b38bc2399e5bbfca3f",
-      "sha1": "68296d5aec31299bebfba7f8572409447b9a5fe7",
-      "bytes": 43879,
       "serverCopy": true
     },
     {
