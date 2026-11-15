@@ -1,14 +1,14 @@
 {
-  "version": "1.0.45",
+  "version": "1.0.46",
   "minecraft": "1.20.1",
   "forge": "47.4.0",
   "basePack": "ATM9",
   "basePackVersion": "1.1.1",
   "assetName": "Dog-Water-Minecraft.zip",
-  "bytes": 49248129,
-  "sha256": "a667566751d73a63a22b291e830f68ef84c55bf3694ab8cf5518754dad9494c8",
-  "curseForgeManifestFiles": 376,
-  "mods": 377,
+  "bytes": 49522550,
+  "sha256": "58ad7ade6b5ec9267186a74c348ef70e8db4e84f4fa1b21286118dabe746e0a3",
+  "curseForgeManifestFiles": 366,
+  "mods": 367,
   "graveSyncStatus": "Rhino callback crash corrected; installed client file requires client restart; in-game verification pending",
   "textures": "Standard Minecraft and mod textures; Optimum Realism and its overlay omitted from shared profile only",
   "backpackTransferUi": "Quark extra buttons disabled on Sophisticated screens; client restart and live display/click check pending",
@@ -232,5 +232,11 @@
     "breakMode": "FALL_ITEM",
     "detectionMode": "ABOVE_Y",
     "crouchForSingleLog": true
+  },
+  "tomsStorage": {
+    "version": "1.7.1",
+    "projectId": 378609,
+    "fileId": 6418133,
+    "removedRefinedStorageMods": 11
   }
 }
