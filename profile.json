@@ -1,12 +1,12 @@
 {
-  "version": "1.0.46",
+  "version": "1.0.47",
   "minecraft": "1.20.1",
   "forge": "47.4.0",
   "basePack": "ATM9",
   "basePackVersion": "1.1.1",
   "assetName": "Dog-Water-Minecraft.zip",
-  "bytes": 49522550,
-  "sha256": "58ad7ade6b5ec9267186a74c348ef70e8db4e84f4fa1b21286118dabe746e0a3",
+  "bytes": 49523994,
+  "sha256": "4398eb8f3ec19858684ee881a6b3925b1e71ba8a9e2bc177116bd39764d15642",
   "curseForgeManifestFiles": 366,
   "mods": 367,
   "graveSyncStatus": "Rhino callback crash corrected; installed client file requires client restart; in-game verification pending",
@@ -238,5 +238,9 @@
     "projectId": 378609,
     "fileId": 6418133,
     "removedRefinedStorageMods": 11
+  },
+  "tomsCraftingTerminalDumpAll": {
+    "mainInventoryOnly": true,
+    "clientRestartRequired": true
   }
 }
