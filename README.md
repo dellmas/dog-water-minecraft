@@ -40,9 +40,9 @@ The profile uses Minecraft **1.20.1**, Forge **47.4.0**, and ATM9 **1.1.1**, wit
 
 
 
-## Current profile 1.0.47
+## Current profile 1.0.48
 
-Tom's Crafting Terminal has a Dump All button above the inventory. It deposits the main inventory and leaves the hotbar alone.
+The green arrow above the top-right inventory slot in Tom's Crafting Terminal deposits matching items. Shift-click it to deposit the main inventory. The hotbar stays put.
 
 Tom's Simple Storage replaces Refined Storage and its ten add-ons.
 
