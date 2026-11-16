@@ -40,9 +40,9 @@ The profile uses Minecraft **1.20.1**, Forge **47.4.0**, and ATM9 **1.1.1**, wit
 
 
 
-## Current profile 1.0.52
+## Current profile 1.0.53
 
-Doubles gear durability and furnace fuel times, including compatible vehicles, the paddle steamer, and the furnace minecart.
+Adds Recipe That! for more crafting options including saddles, name tags, and reversible blaze rods.
 
 Tom's Simple Storage replaces Refined Storage and its ten add-ons.
 
