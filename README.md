@@ -40,9 +40,9 @@ The profile uses Minecraft **1.20.1**, Forge **47.4.0**, and ATM9 **1.1.1**, wit
 
 
 
-## Current profile 1.0.51
+## Current profile 1.0.52
 
-Tom's Crafting Terminal keeps the A-Z sort tab on the inventory's right edge when you open or close the recipe book. Includes the repaired green deposit arrow from 1.0.50.
+Doubles gear durability and furnace fuel times, including compatible vehicles, the paddle steamer, and the furnace minecart.
 
 Tom's Simple Storage replaces Refined Storage and its ten add-ons.
 
