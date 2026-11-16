@@ -1,6 +1,6 @@
 {
-  "version": "1.0.51",
-  "profileSha256": "3e7156c6878648122a6af51c0ca5e439bb017a80498c844348ebae629861625c",
+  "version": "1.0.52",
+  "profileSha256": "c13b151991150087d452a8db26c2ada21a9d8215c50b91665f875527ec267313",
   "repository": "https://github.com/dellmas/dog-water-minecraft",
   "personalFilesExcluded": [
     "automodpack/automodpack-client.json",
@@ -32,9 +32,9 @@
     },
     {
       "file": "DOG-WATER-START-HERE.txt",
-      "sha256": "e16aea99044f1510759a1e4c85a2153ba18aa6d803270b837086d160233cadd7",
-      "sha1": "b48d319128fc715c84b0dc67f560d3c9d2d761b2",
-      "bytes": 9472,
+      "sha256": "c40a84d5c334faa8d9ae431809c40a26263a03127f0089582a34a47bba0e96a6",
+      "sha1": "cd2c530b7929071356542cda164eeee6c48da72e",
+      "bytes": 9425,
       "serverCopy": false
     },
     {
@@ -1712,8 +1712,8 @@
     },
     {
       "file": "dwd-profile-release.json",
-      "sha256": "17d9970e5408bc9a32cfd83095277c71365a7a271f353ac258ba0156809c38f6",
-      "sha1": "799cc4519bae4527965dd379d666e47338d10a53",
+      "sha256": "95ab010d55da0cf74c9dda89ed94562b4b0629076afd7c535d96732d1bf91be8",
+      "sha1": "40ec336ca57f373d078230bb339a8bf58602feb4",
       "bytes": 179,
       "serverCopy": false
     },
@@ -12677,6 +12677,13 @@
       "sha256": "482034afa7dda29d76fe940ebf472781035c57de42d020e0480b7a4495c679d4",
       "sha1": "45682c171ee52911f292ea0714d7989dd414b885",
       "bytes": 9097,
+      "serverCopy": true
+    },
+    {
+      "file": "mods/dwd-long-life-1.0.0.jar",
+      "sha256": "7c4a08dad40ed669cef816b307d65a2c0e9f034f164bbeab177693ff9373786e",
+      "sha1": "537b81e3233635ba4de0cfdf8d8613b7dc0df499",
+      "bytes": 14291,
       "serverCopy": true
     },
     {
