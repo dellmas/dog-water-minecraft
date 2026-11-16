@@ -40,9 +40,9 @@ The profile uses Minecraft **1.20.1**, Forge **47.4.0**, and ATM9 **1.1.1**, wit
 
 
 
-## Current profile 1.0.53
+## Current profile 1.0.54
 
-Adds Recipe That! for more crafting options including saddles, name tags, and reversible blaze rods.
+Adds alternate XP Drain Singularity Tank and Experience Crystal recipes. Use copper instead of Eyes of Ender, or amethyst instead of a Bottle o’ Enchanting.
 
 Tom's Simple Storage replaces Refined Storage and its ten add-ons.
 
