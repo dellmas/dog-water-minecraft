@@ -1,12 +1,12 @@
 {
-  "version": "1.0.53",
+  "version": "1.0.54",
   "minecraft": "1.20.1",
   "forge": "47.4.0",
   "basePack": "ATM9",
   "basePackVersion": "1.1.1",
   "assetName": "Dog-Water-Minecraft.zip",
-  "bytes": 49536837,
-  "sha256": "628389ba480e27089c43d6a2f07c64f78625f21a6b094923b87038c317334d2e",
+  "bytes": 49537377,
+  "sha256": "d2287ee0548f940d10b23dcceeb6bb24c8534c17da52908fd4829bcbb229794e",
   "curseForgeManifestFiles": 367,
   "mods": 369,
   "graveSyncStatus": "Rhino callback crash corrected; installed client file requires client restart; in-game verification pending",
@@ -261,5 +261,10 @@
     "project": 1233199,
     "file": 8035079,
     "jarSha256": "34484714fd1535858da589bf808a52764e89290a88896abc44f93cca873c181c"
+  },
+  "xpStorageAlternatives": {
+    "drain": "copper_ingots",
+    "crystal": "amethyst_shard",
+    "originalRecipesRetained": true
   }
 }
