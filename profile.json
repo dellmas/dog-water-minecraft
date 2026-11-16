@@ -1,14 +1,14 @@
 {
-  "version": "1.0.52",
+  "version": "1.0.53",
   "minecraft": "1.20.1",
   "forge": "47.4.0",
   "basePack": "ATM9",
   "basePackVersion": "1.1.1",
   "assetName": "Dog-Water-Minecraft.zip",
-  "bytes": 49536809,
-  "sha256": "c13b151991150087d452a8db26c2ada21a9d8215c50b91665f875527ec267313",
-  "curseForgeManifestFiles": 366,
-  "mods": 368,
+  "bytes": 49536837,
+  "sha256": "628389ba480e27089c43d6a2f07c64f78625f21a6b094923b87038c317334d2e",
+  "curseForgeManifestFiles": 367,
+  "mods": 369,
   "graveSyncStatus": "Rhino callback crash corrected; installed client file requires client restart; in-game verification pending",
   "textures": "Standard Minecraft and mod textures; Optimum Realism and its overlay omitted from shared profile only",
   "backpackTransferUi": "Quark extra buttons disabled on Sophisticated screens; client restart and live display/click check pending",
@@ -256,5 +256,10 @@
     "multiplier": 2,
     "serverAndClient": true,
     "jarSha256": "7c4a08dad40ed669cef816b307d65a2c0e9f034f164bbeab177693ff9373786e"
+  },
+  "recipeThat": {
+    "project": 1233199,
+    "file": 8035079,
+    "jarSha256": "34484714fd1535858da589bf808a52764e89290a88896abc44f93cca873c181c"
   }
 }
