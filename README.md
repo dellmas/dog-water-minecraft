@@ -40,9 +40,9 @@ The profile uses Minecraft **1.20.1**, Forge **47.4.0**, and ATM9 **1.1.1**, wit
 
 
 
-## Current profile 1.0.50
+## Current profile 1.0.51
 
-Fixed a client script error that prevented the green deposit arrow from appearing in Tom's Crafting Terminal. It sits above the top-right inventory slot. Click to deposit matching items or hold Shift for the filled arrow and click to deposit the main inventory. The hotbar stays put.
+Tom's Crafting Terminal keeps the A-Z sort tab on the inventory's right edge when you open or close the recipe book. Includes the repaired green deposit arrow from 1.0.50.
 
 Tom's Simple Storage replaces Refined Storage and its ten add-ons.
 
