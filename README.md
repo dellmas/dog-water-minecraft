@@ -40,9 +40,9 @@ The profile uses Minecraft **1.20.1**, Forge **47.4.0**, and ATM9 **1.1.1**, wit
 
 
 
-## Current profile 1.0.54
+## Current profile 1.0.55
 
-Adds alternate XP Drain Singularity Tank and Experience Crystal recipes. Use copper instead of Eyes of Ender, or amethyst instead of a Bottle o’ Enchanting.
+The alternate XP Drain Singularity Tank costs two diamonds and the alternate Experience Crystal costs one diamond. The original recipes are still available.
 
 Tom's Simple Storage replaces Refined Storage and its ten add-ons.
 
