@@ -1,12 +1,12 @@
 {
-  "version": "1.0.55",
+  "version": "1.0.56",
   "minecraft": "1.20.1",
   "forge": "47.4.0",
   "basePack": "ATM9",
   "basePackVersion": "1.1.1",
   "assetName": "Dog-Water-Minecraft.zip",
-  "bytes": 49537344,
-  "sha256": "9ec0e1544d7389911cbfe483ba193fdcba93c95fa60de2e0d53d9d9c5bb91ea5",
+  "bytes": 49538885,
+  "sha256": "ad67da346b975ffdf04a1f2312c5a7e6f84131e926ae555945897d0b5d44e541",
   "curseForgeManifestFiles": 367,
   "mods": 369,
   "graveSyncStatus": "Rhino callback crash corrected; installed client file requires client restart; in-game verification pending",
@@ -266,5 +266,9 @@
     "drainDiamonds": 2,
     "crystalDiamonds": 1,
     "originalRecipesRetained": true
+  },
+  "lostCitiesBedrockFloor": {
+    "dimension": "lostcities:lostcity",
+    "y": 0
   }
 }
