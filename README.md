@@ -40,9 +40,9 @@ The profile uses Minecraft **1.20.1**, Forge **47.4.0**, and ATM9 **1.1.1**, wit
 
 
 
-## Current profile 1.0.56
+## Current profile 1.0.57
 
-Seals gaps in the Lost Cities bedrock floor at Y=0. The repair applies to explored terrain and new chunks.
+Raises the Paragliders Heart Container limit to 512 per player, the highest supported by the installed Forge version.
 
 Tom's Simple Storage replaces Refined Storage and its ten add-ons.
 
