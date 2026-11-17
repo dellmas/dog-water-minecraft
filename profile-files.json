@@ -1,6 +1,6 @@
 {
-  "version": "1.0.56",
-  "profileSha256": "ad67da346b975ffdf04a1f2312c5a7e6f84131e926ae555945897d0b5d44e541",
+  "version": "1.0.57",
+  "profileSha256": "3da7ffd2ad44b34e9c7495623555a3b184c4b2f00bce45f36b9ab63fd55ec109",
   "repository": "https://github.com/dellmas/dog-water-minecraft",
   "personalFilesExcluded": [
     "automodpack/automodpack-client.json",
@@ -32,9 +32,9 @@
     },
     {
       "file": "DOG-WATER-START-HERE.txt",
-      "sha256": "cd5284a7fad0ba397f63eba4d26f171b12d40b2f8be72eb68cb4dd476ebf0bd0",
-      "sha1": "ecb7d41f5767e219a330efab17708892e7f483b5",
-      "bytes": 9407,
+      "sha256": "eedec01a2629c3216109479b39d5e4bcec089107bbb3d42895555eed62d5e785",
+      "sha1": "e3cba9c60769ced0f0489524c52907bf3a4805b5",
+      "bytes": 9418,
       "serverCopy": false
     },
     {
@@ -1669,6 +1669,13 @@
       "serverCopy": false
     },
     {
+      "file": "defaultconfigs/paraglider-server.toml",
+      "sha256": "5716745d772f6bf746713efca6c66006a81d7e0881f1518ab487abcb28da4628",
+      "sha1": "bde3c7c3bb27af88e4b8f224e0cfbf353dabd30d",
+      "bytes": 37,
+      "serverCopy": false
+    },
+    {
       "file": "defaultconfigs/pylons-server.toml",
       "sha256": "bbaea6d37fe3cc10b976451cf6fcd31b691ac3f4060e2df8d1e8e16dcc8e8992",
       "sha1": "5c523632dabc960edbefbfc438cf21d9b0d55bb1",
@@ -1712,8 +1719,8 @@
     },
     {
       "file": "dwd-profile-release.json",
-      "sha256": "d8164c45d2d93f800456d1b09879fc6237d750c7ea6eaee096a2035d0d2c7e76",
-      "sha1": "13c4b0c998e0aa66e4f046c5be4c15d2d05af698",
+      "sha256": "8f6521ba308da56f5767c4eb51b77a2bf32d674dfc8c0a5cad6079baefaa9910",
+      "sha1": "ebb035f27dd70f9e9316d861df937ac52a862193",
       "bytes": 179,
       "serverCopy": false
     },
