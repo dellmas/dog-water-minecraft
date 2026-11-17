@@ -40,9 +40,9 @@ The profile uses Minecraft **1.20.1**, Forge **47.4.0**, and ATM9 **1.1.1**, wit
 
 
 
-## Current profile 1.0.55
+## Current profile 1.0.56
 
-The alternate XP Drain Singularity Tank costs two diamonds and the alternate Experience Crystal costs one diamond. The original recipes are still available.
+Seals gaps in the Lost Cities bedrock floor at Y=0. The repair applies to explored terrain and new chunks.
 
 Tom's Simple Storage replaces Refined Storage and its ten add-ons.
 
