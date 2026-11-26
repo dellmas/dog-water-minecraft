@@ -1,12 +1,12 @@
 {
-  "version": "1.0.57",
+  "version": "1.0.58",
   "minecraft": "1.20.1",
   "forge": "47.4.0",
   "basePack": "ATM9",
   "basePackVersion": "1.1.1",
   "assetName": "Dog-Water-Minecraft.zip",
-  "bytes": 49539109,
-  "sha256": "3da7ffd2ad44b34e9c7495623555a3b184c4b2f00bce45f36b9ab63fd55ec109",
+  "bytes": 49539099,
+  "sha256": "57a2e2337b0cb2066f42cb4986249ab3b40457e749ffcae4dc19236416b79836",
   "curseForgeManifestFiles": 367,
   "mods": 369,
   "graveSyncStatus": "Rhino callback crash corrected; installed client file requires client restart; in-game verification pending",
@@ -273,5 +273,10 @@
   },
   "paragliderHeartContainers": {
     "maximum": 512
+  },
+  "movingElevators": {
+    "project": 373051,
+    "file": 7600461,
+    "jarSha256": "ce330a64250af28872d7561783c32a22dce05e8e41682c35499fdc597e20df95"
   }
 }
