@@ -40,9 +40,9 @@ The profile uses Minecraft **1.20.1**, Forge **47.4.0**, and ATM9 **1.1.1**, wit
 
 
 
-## Current profile 1.0.57
+## Current profile 1.0.58
 
-Raises the Paragliders Heart Container limit to 512 per player, the highest supported by the installed Forge version.
+Replaces OpenBlocks Elevator with Moving Elevators for rideable platforms and floor controls.
 
 Tom's Simple Storage replaces Refined Storage and its ten add-ons.
 
