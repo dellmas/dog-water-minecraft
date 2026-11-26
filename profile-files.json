@@ -1,6 +1,6 @@
 {
-  "version": "1.0.57",
-  "profileSha256": "3da7ffd2ad44b34e9c7495623555a3b184c4b2f00bce45f36b9ab63fd55ec109",
+  "version": "1.0.58",
+  "profileSha256": "57a2e2337b0cb2066f42cb4986249ab3b40457e749ffcae4dc19236416b79836",
   "repository": "https://github.com/dellmas/dog-water-minecraft",
   "personalFilesExcluded": [
     "automodpack/automodpack-client.json",
@@ -32,9 +32,9 @@
     },
     {
       "file": "DOG-WATER-START-HERE.txt",
-      "sha256": "eedec01a2629c3216109479b39d5e4bcec089107bbb3d42895555eed62d5e785",
-      "sha1": "e3cba9c60769ced0f0489524c52907bf3a4805b5",
-      "bytes": 9418,
+      "sha256": "55150a740ed49a66831fb574c5a7f3c5dcba7016adeb0eefbd65f6da3d5cead8",
+      "sha1": "092e57093931e5022cc4e4576b03fa5fcd3f937e",
+      "bytes": 9394,
       "serverCopy": false
     },
     {
@@ -242,9 +242,9 @@
     },
     {
       "file": "config/crash_assistant/modlist.json",
-      "sha256": "ed458f67d9f090a02b7f2df0c15aefd61314c2edc03cdfede6fc05a6972c1ee3",
-      "sha1": "4eac6837d13759cc9ea75e72ef763b5bfeba9ddc",
-      "bytes": 64575,
+      "sha256": "771e71c15644fbdacb201c9ff9861c4e5b31cd8ce579562e54a02739ea019e64",
+      "sha1": "246876e2649ca75714b7317281d692dd8abd5d65",
+      "bytes": 64584,
       "serverCopy": false
     },
     {
@@ -1719,8 +1719,8 @@
     },
     {
       "file": "dwd-profile-release.json",
-      "sha256": "8f6521ba308da56f5767c4eb51b77a2bf32d674dfc8c0a5cad6079baefaa9910",
-      "sha1": "ebb035f27dd70f9e9316d861df937ac52a862193",
+      "sha256": "7d49e5d61947ec3ab12297e1cea274290192a32af9ec1dc5e1a0198cabccd098",
+      "sha1": "bbd86c06c7cbc0ebee582a10abda2f304e48dc3c",
       "bytes": 179,
       "serverCopy": false
     },
@@ -12743,13 +12743,6 @@
       "serverCopy": true
     },
     {
-      "file": "mods/elevatorid-1.20.1-1.9.1-forge.jar",
-      "sha256": "7487c091bc8e6ae7b83c61471c97258b380fab2a0f421ed84df78f92ba630f75",
-      "sha1": "9117fbb20ce0b3b9abd25e19b3d5987a53be30c9",
-      "bytes": 187868,
-      "serverCopy": true
-    },
-    {
       "file": "mods/elytraslot-forge-6.4.4+1.20.1.jar",
       "sha256": "f96c26e7ac9e2dade0aa04f71b9f8708a2b7af92b9cc691103ae32c62764e6ab",
       "sha1": "f11443ef3371fa790eb33cba1a517638a3afcb07",
@@ -13391,6 +13384,13 @@
       "sha256": "a5baa00780254a9982276a99dceea035c62d384f07926e3138cb3934f1b808a0",
       "sha1": "1e49a2fca02e1059bf6c94f6292463ed6e4f6122",
       "bytes": 756905,
+      "serverCopy": true
+    },
+    {
+      "file": "mods/movingelevators-1.4.12-forge-mc1.20.1.jar",
+      "sha256": "ce330a64250af28872d7561783c32a22dce05e8e41682c35499fdc597e20df95",
+      "sha1": "1f61ea052a37e6fe1e927f84c017523155ebd69c",
+      "bytes": 333266,
       "serverCopy": true
     },
     {
